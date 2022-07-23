@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				-141
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "diagonal idle"
+		},
+		{
+			"offsets": [
+				170,
+				-196
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "diagonal left"
+		},
+		{
+			"offsets": [
+				-168,
+				-255
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "diagonal down"
+		},
+		{
+			"offsets": [
+				20,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "diagonal up"
+		},
+		{
+			"offsets": [
+				-20,
+				-122
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "diagonal right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/diagonal mario",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "diag",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		21,
+		54
+	],
+	"camera_position": [
+		-160,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

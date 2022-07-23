@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				180
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "too late idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				200
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "too late left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				200
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "too late down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				680
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "too late up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				320,
+				200
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "too late right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/too late exe",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "too late",
+	"flip_x": false,
+	"healthbar_colors": [
+		16,
+		142,
+		0
+	],
+	"camera_position": [
+		-190,
+		-530
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

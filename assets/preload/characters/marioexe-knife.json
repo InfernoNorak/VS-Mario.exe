@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Mario.EXE Idle"
+		},
+		{
+			"offsets": [
+				29,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mario.EXE Left"
+		},
+		{
+			"offsets": [
+				7,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Mario.EXE Down"
+		},
+		{
+			"offsets": [
+				0,
+				-123
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Mario.EXE Up"
+		},
+		{
+			"offsets": [
+				0,
+				-172
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Mario.EXE Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Coolrash_Mario.EXE_Knife_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "marioexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		158,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

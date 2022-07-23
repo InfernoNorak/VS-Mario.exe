@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sponge_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sponge Down0000" x="0" y="0" width="341" height="623" frameX="0" frameY="-11" frameWidth="341" frameHeight="634"/>
+	<SubTexture name="Sponge Down0001" x="0" y="0" width="341" height="623" frameX="0" frameY="-11" frameWidth="341" frameHeight="634"/>
+	<SubTexture name="Sponge Down0002" x="341" y="0" width="320" height="634" frameX="-4" frameY="0" frameWidth="341" frameHeight="634"/>
+	<SubTexture name="Sponge Down0003" x="341" y="0" width="320" height="634" frameX="-4" frameY="0" frameWidth="341" frameHeight="634"/>
+	<SubTexture name="Sponge Down0004" x="661" y="0" width="319" height="634" frameX="-4" frameY="0" frameWidth="341" frameHeight="634"/>
+	<SubTexture name="Sponge Down0005" x="661" y="0" width="319" height="634" frameX="-4" frameY="0" frameWidth="341" frameHeight="634"/>
+	<SubTexture name="Sponge Down0006" x="661" y="0" width="319" height="634" frameX="-4" frameY="0" frameWidth="341" frameHeight="634"/>
+	<SubTexture name="Sponge Down0007" x="661" y="0" width="319" height="634" frameX="-4" frameY="0" frameWidth="341" frameHeight="634"/>
+	<SubTexture name="Sponge Down0008" x="661" y="0" width="319" height="634" frameX="-4" frameY="0" frameWidth="341" frameHeight="634"/>
+	<SubTexture name="Sponge Down0009" x="661" y="0" width="319" height="634" frameX="-4" frameY="0" frameWidth="341" frameHeight="634"/>
+	<SubTexture name="Sponge Down0010" x="661" y="0" width="319" height="634" frameX="-4" frameY="0" frameWidth="341" frameHeight="634"/>
+	<SubTexture name="Sponge Down0011" x="661" y="0" width="319" height="634" frameX="-4" frameY="0" frameWidth="341" frameHeight="634"/>
+	<SubTexture name="Sponge Down0012" x="661" y="0" width="319" height="634" frameX="-4" frameY="0" frameWidth="341" frameHeight="634"/>
+	<SubTexture name="Sponge Idle0000" x="980" y="0" width="353" height="625" frameX="0" frameY="-11" frameWidth="353" frameHeight="637"/>
+	<SubTexture name="Sponge Idle0001" x="980" y="0" width="353" height="625" frameX="0" frameY="-11" frameWidth="353" frameHeight="637"/>
+	<SubTexture name="Sponge Idle0002" x="1333" y="0" width="348" height="630" frameX="-2" frameY="-7" frameWidth="353" frameHeight="637"/>
+	<SubTexture name="Sponge Idle0003" x="1333" y="0" width="348" height="630" frameX="-2" frameY="-7" frameWidth="353" frameHeight="637"/>
+	<SubTexture name="Sponge Idle0004" x="1681" y="0" width="345" height="635" frameX="-3" frameY="-2" frameWidth="353" frameHeight="637"/>
+	<SubTexture name="Sponge Idle0005" x="1681" y="0" width="345" height="635" frameX="-3" frameY="-2" frameWidth="353" frameHeight="637"/>
+	<SubTexture name="Sponge Idle0006" x="2026" y="0" width="342" height="637" frameX="-4" frameY="0" frameWidth="353" frameHeight="637"/>
+	<SubTexture name="Sponge Idle0007" x="2026" y="0" width="342" height="637" frameX="-4" frameY="0" frameWidth="353" frameHeight="637"/>
+	<SubTexture name="Sponge Idle0008" x="2368" y="0" width="342" height="637" frameX="-4" frameY="0" frameWidth="353" frameHeight="637"/>
+	<SubTexture name="Sponge Idle0009" x="2368" y="0" width="342" height="637" frameX="-4" frameY="0" frameWidth="353" frameHeight="637"/>
+	<SubTexture name="Sponge Idle0010" x="2368" y="0" width="342" height="637" frameX="-4" frameY="0" frameWidth="353" frameHeight="637"/>
+	<SubTexture name="Sponge Idle0011" x="2368" y="0" width="342" height="637" frameX="-4" frameY="0" frameWidth="353" frameHeight="637"/>
+	<SubTexture name="Sponge Idle0012" x="2368" y="0" width="342" height="637" frameX="-4" frameY="0" frameWidth="353" frameHeight="637"/>
+	<SubTexture name="Sponge Idle0013" x="2368" y="0" width="342" height="637" frameX="-4" frameY="0" frameWidth="353" frameHeight="637"/>
+	<SubTexture name="Sponge Left0000" x="2710" y="0" width="304" height="634" frameX="0" frameY="-10" frameWidth="306" frameHeight="644"/>
+	<SubTexture name="Sponge Left0001" x="2710" y="0" width="304" height="634" frameX="0" frameY="-10" frameWidth="306" frameHeight="644"/>
+	<SubTexture name="Sponge Left0002" x="3014" y="0" width="306" height="644"/>
+	<SubTexture name="Sponge Left0003" x="3014" y="0" width="306" height="644"/>
+	<SubTexture name="Sponge Left0004" x="3320" y="0" width="306" height="644"/>
+	<SubTexture name="Sponge Left0005" x="3320" y="0" width="306" height="644"/>
+	<SubTexture name="Sponge Left0006" x="3320" y="0" width="306" height="644"/>
+	<SubTexture name="Sponge Left0007" x="3320" y="0" width="306" height="644"/>
+	<SubTexture name="Sponge Left0008" x="3320" y="0" width="306" height="644"/>
+	<SubTexture name="Sponge Left0009" x="3320" y="0" width="306" height="644"/>
+	<SubTexture name="Sponge Left0010" x="3320" y="0" width="306" height="644"/>
+	<SubTexture name="Sponge Left0011" x="3320" y="0" width="306" height="644"/>
+	<SubTexture name="Sponge Left0012" x="3320" y="0" width="306" height="644"/>
+	<SubTexture name="Sponge Right0000" x="3626" y="0" width="300" height="634" frameX="-1" frameY="0" frameWidth="301" frameHeight="634"/>
+	<SubTexture name="Sponge Right0001" x="3626" y="0" width="300" height="634" frameX="-1" frameY="0" frameWidth="301" frameHeight="634"/>
+	<SubTexture name="Sponge Right0002" x="0" y="644" width="293" height="634" frameX="0" frameY="0" frameWidth="301" frameHeight="634"/>
+	<SubTexture name="Sponge Right0003" x="0" y="644" width="293" height="634" frameX="0" frameY="0" frameWidth="301" frameHeight="634"/>
+	<SubTexture name="Sponge Right0004" x="293" y="644" width="294" height="634" frameX="0" frameY="0" frameWidth="301" frameHeight="634"/>
+	<SubTexture name="Sponge Right0005" x="293" y="644" width="294" height="634" frameX="0" frameY="0" frameWidth="301" frameHeight="634"/>
+	<SubTexture name="Sponge Right0006" x="293" y="644" width="294" height="634" frameX="0" frameY="0" frameWidth="301" frameHeight="634"/>
+	<SubTexture name="Sponge Right0007" x="293" y="644" width="294" height="634" frameX="0" frameY="0" frameWidth="301" frameHeight="634"/>
+	<SubTexture name="Sponge Right0008" x="293" y="644" width="294" height="634" frameX="0" frameY="0" frameWidth="301" frameHeight="634"/>
+	<SubTexture name="Sponge Right0009" x="293" y="644" width="294" height="634" frameX="0" frameY="0" frameWidth="301" frameHeight="634"/>
+	<SubTexture name="Sponge Right0010" x="293" y="644" width="294" height="634" frameX="0" frameY="0" frameWidth="301" frameHeight="634"/>
+	<SubTexture name="Sponge Right0011" x="293" y="644" width="294" height="634" frameX="0" frameY="0" frameWidth="301" frameHeight="634"/>
+	<SubTexture name="Sponge Right0012" x="293" y="644" width="294" height="634" frameX="0" frameY="0" frameWidth="301" frameHeight="634"/>
+	<SubTexture name="Sponge Up0000" x="587" y="644" width="293" height="651" frameX="-2" frameY="0" frameWidth="295" frameHeight="651"/>
+	<SubTexture name="Sponge Up0001" x="587" y="644" width="293" height="651" frameX="-2" frameY="0" frameWidth="295" frameHeight="651"/>
+	<SubTexture name="Sponge Up0002" x="880" y="644" width="293" height="645" frameX="0" frameY="-6" frameWidth="295" frameHeight="651"/>
+	<SubTexture name="Sponge Up0003" x="880" y="644" width="293" height="645" frameX="0" frameY="-6" frameWidth="295" frameHeight="651"/>
+	<SubTexture name="Sponge Up0004" x="1173" y="644" width="293" height="645" frameX="0" frameY="-6" frameWidth="295" frameHeight="651"/>
+	<SubTexture name="Sponge Up0005" x="1173" y="644" width="293" height="645" frameX="0" frameY="-6" frameWidth="295" frameHeight="651"/>
+	<SubTexture name="Sponge Up0006" x="1173" y="644" width="293" height="645" frameX="0" frameY="-6" frameWidth="295" frameHeight="651"/>
+	<SubTexture name="Sponge Up0007" x="1173" y="644" width="293" height="645" frameX="0" frameY="-6" frameWidth="295" frameHeight="651"/>
+	<SubTexture name="Sponge Up0008" x="1173" y="644" width="293" height="645" frameX="0" frameY="-6" frameWidth="295" frameHeight="651"/>
+	<SubTexture name="Sponge Up0009" x="1173" y="644" width="293" height="645" frameX="0" frameY="-6" frameWidth="295" frameHeight="651"/>
+	<SubTexture name="Sponge Up0010" x="1173" y="644" width="293" height="645" frameX="0" frameY="-6" frameWidth="295" frameHeight="651"/>
+	<SubTexture name="Sponge Up0011" x="1173" y="644" width="293" height="645" frameX="0" frameY="-6" frameWidth="295" frameHeight="651"/>
+	<SubTexture name="Sponge Up0012" x="1173" y="644" width="293" height="645" frameX="0" frameY="-6" frameWidth="295" frameHeight="651"/>
+</TextureAtlas>

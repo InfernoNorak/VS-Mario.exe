@@ -1,0 +1,41 @@
+{
+	"storyName": "mashed week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"dictation",
+			"secretmario",
+			[
+				66,
+				233,
+				253
+			]
+		],
+		[
+			"anti-hero",
+			"secretmario",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "vs secret history mario",
+	"hiddenUntilUnlocked": false
+}

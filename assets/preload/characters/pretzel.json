@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "pretzel idle"
+		},
+		{
+			"offsets": [
+				39,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "pretzel left"
+		},
+		{
+			"offsets": [
+				60,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "pretzel down"
+		},
+		{
+			"offsets": [
+				0,
+				-153
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "pretzel up"
+		},
+		{
+			"offsets": [
+				0,
+				-190
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "pretzel right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pretzel",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pretzel",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		102,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

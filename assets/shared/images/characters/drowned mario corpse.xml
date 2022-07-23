@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="drowned mario corpse.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="drownd mario down0000" x="0" y="0" width="288" height="529" frameX="-1" frameY="0" frameWidth="316" frameHeight="529"/>
+	<SubTexture name="drownd mario down0001" x="288" y="0" width="297" height="521" frameX="-1" frameY="-8" frameWidth="316" frameHeight="529"/>
+	<SubTexture name="drownd mario down0002" x="585" y="0" width="306" height="511" frameX="-1" frameY="-17" frameWidth="316" frameHeight="529"/>
+	<SubTexture name="drownd mario down0003" x="891" y="0" width="316" height="500" frameX="0" frameY="-27" frameWidth="316" frameHeight="529"/>
+	<SubTexture name="drownd mario down0004" x="891" y="0" width="316" height="500" frameX="0" frameY="-27" frameWidth="316" frameHeight="529"/>
+	<SubTexture name="drownd mario down0005" x="891" y="0" width="316" height="500" frameX="0" frameY="-27" frameWidth="316" frameHeight="529"/>
+	<SubTexture name="drownd mario idle swim0000" x="1207" y="0" width="319" height="549" frameX="-37" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0001" x="1526" y="0" width="323" height="547" frameX="-34" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0002" x="1849" y="0" width="326" height="545" frameX="-32" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0003" x="2175" y="0" width="330" height="541" frameX="-29" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0004" x="2505" y="0" width="334" height="539" frameX="-26" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0005" x="2839" y="0" width="338" height="537" frameX="-23" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0006" x="3177" y="0" width="341" height="535" frameX="-21" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0007" x="3518" y="0" width="344" height="534" frameX="-18" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0008" x="3862" y="0" width="348" height="533" frameX="-15" frameY="-2" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0009" x="4210" y="0" width="351" height="533" frameX="-13" frameY="-2" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0010" x="4561" y="0" width="355" height="532" frameX="-10" frameY="-2" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0011" x="4916" y="0" width="357" height="532" frameX="-8" frameY="-2" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0012" x="5273" y="0" width="361" height="530" frameX="-5" frameY="-3" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0013" x="5634" y="0" width="364" height="530" frameX="-3" frameY="-3" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0014" x="5998" y="0" width="368" height="529" frameX="0" frameY="-3" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0015" x="6366" y="0" width="361" height="529" frameX="-5" frameY="-3" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0016" x="6727" y="0" width="356" height="529" frameX="-9" frameY="-3" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0017" x="7083" y="0" width="350" height="528" frameX="-14" frameY="-3" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0018" x="7433" y="0" width="345" height="528" frameX="-18" frameY="-3" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0019" x="7778" y="0" width="338" height="528" frameX="-23" frameY="-2" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0020" x="0" y="549" width="332" height="528" frameX="-28" frameY="-2" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0021" x="332" y="549" width="326" height="528" frameX="-33" frameY="-2" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0022" x="658" y="549" width="319" height="529" frameX="-38" frameY="-2" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0023" x="977" y="549" width="313" height="531" frameX="-43" frameY="-2" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0024" x="1290" y="549" width="306" height="532" frameX="-48" frameY="-2" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0025" x="1596" y="549" width="299" height="534" frameX="-54" frameY="-2" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0026" x="1895" y="549" width="292" height="536" frameX="-59" frameY="-2" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0027" x="2187" y="549" width="286" height="537" frameX="-64" frameY="-2" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0028" x="2473" y="549" width="283" height="540" frameX="-65" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0029" x="2756" y="549" width="282" height="542" frameX="-65" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0030" x="3038" y="549" width="279" height="544" frameX="-66" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0031" x="3317" y="549" width="276" height="545" frameX="-67" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0032" x="3593" y="549" width="274" height="547" frameX="-68" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0033" x="3867" y="549" width="271" height="549" frameX="-69" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0034" x="4138" y="549" width="268" height="550" frameX="-70" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0035" x="4406" y="549" width="267" height="552" frameX="-70" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0036" x="4673" y="549" width="270" height="549" frameX="-69" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0037" x="4943" y="549" width="274" height="547" frameX="-68" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0038" x="5217" y="549" width="277" height="545" frameX="-67" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0039" x="5494" y="549" width="282" height="542" frameX="-65" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0040" x="5776" y="549" width="285" height="539" frameX="-64" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0041" x="6061" y="549" width="288" height="537" frameX="-63" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0042" x="6349" y="549" width="294" height="534" frameX="-59" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0043" x="6643" y="549" width="303" height="532" frameX="-53" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0044" x="6946" y="549" width="312" height="530" frameX="-46" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0045" x="7258" y="549" width="320" height="528" frameX="-40" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0046" x="7578" y="549" width="328" height="529" frameX="-34" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0047" x="0" y="1101" width="336" height="530" frameX="-28" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0048" x="336" y="1101" width="343" height="530" frameX="-23" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0049" x="679" y="1101" width="349" height="531" frameX="-18" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0050" x="1028" y="1101" width="348" height="531" frameX="-19" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0051" x="1376" y="1101" width="346" height="532" frameX="-20" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0052" x="1722" y="1101" width="345" height="532" frameX="-21" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0053" x="2067" y="1101" width="343" height="532" frameX="-22" frameY="-1" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0054" x="2410" y="1101" width="341" height="534" frameX="-23" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0055" x="2751" y="1101" width="340" height="534" frameX="-24" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0056" x="3091" y="1101" width="338" height="534" frameX="-25" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0057" x="3429" y="1101" width="337" height="535" frameX="-26" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0058" x="3766" y="1101" width="335" height="535" frameX="-27" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0059" x="4101" y="1101" width="333" height="536" frameX="-28" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0060" x="4434" y="1101" width="331" height="538" frameX="-30" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0061" x="4765" y="1101" width="329" height="540" frameX="-31" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0062" x="5094" y="1101" width="327" height="542" frameX="-32" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0063" x="5421" y="1101" width="326" height="544" frameX="-33" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0064" x="5747" y="1101" width="323" height="545" frameX="-35" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0065" x="6070" y="1101" width="321" height="547" frameX="-36" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0066" x="1207" y="0" width="319" height="549" frameX="-37" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0067" x="1207" y="0" width="319" height="549" frameX="-37" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0068" x="1207" y="0" width="319" height="549" frameX="-37" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0069" x="1207" y="0" width="319" height="549" frameX="-37" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario idle swim0070" x="1207" y="0" width="319" height="549" frameX="-37" frameY="0" frameWidth="368" frameHeight="553"/>
+	<SubTexture name="drownd mario left0000" x="6391" y="1101" width="367" height="549" frameX="-8" frameY="-2" frameWidth="375" frameHeight="563"/>
+	<SubTexture name="drownd mario left0001" x="6758" y="1101" width="369" height="554" frameX="-5" frameY="-1" frameWidth="375" frameHeight="563"/>
+	<SubTexture name="drownd mario left0002" x="7127" y="1101" width="370" height="558" frameX="-2" frameY="-1" frameWidth="375" frameHeight="563"/>
+	<SubTexture name="drownd mario left0003" x="7497" y="1101" width="369" height="563" frameX="0" frameY="0" frameWidth="375" frameHeight="563"/>
+	<SubTexture name="drownd mario left0004" x="7497" y="1101" width="369" height="563" frameX="0" frameY="0" frameWidth="375" frameHeight="563"/>
+	<SubTexture name="drownd mario left0005" x="7497" y="1101" width="369" height="563" frameX="0" frameY="0" frameWidth="375" frameHeight="563"/>
+	<SubTexture name="drownd mario right0000" x="0" y="1664" width="603" height="330" frameX="0" frameY="-30" frameWidth="616" frameHeight="360"/>
+	<SubTexture name="drownd mario right0001" x="603" y="1664" width="603" height="331" frameX="-3" frameY="-29" frameWidth="616" frameHeight="360"/>
+	<SubTexture name="drownd mario right0002" x="1206" y="1664" width="603" height="333" frameX="-5" frameY="-25" frameWidth="616" frameHeight="360"/>
+	<SubTexture name="drownd mario right0003" x="1809" y="1664" width="603" height="340" frameX="-8" frameY="-16" frameWidth="616" frameHeight="360"/>
+	<SubTexture name="drownd mario right0004" x="2412" y="1664" width="603" height="345" frameX="-11" frameY="-8" frameWidth="616" frameHeight="360"/>
+	<SubTexture name="drownd mario right0005" x="3015" y="1664" width="602" height="350" frameX="-14" frameY="0" frameWidth="616" frameHeight="360"/>
+	<SubTexture name="drownd mario right0006" x="3015" y="1664" width="602" height="350" frameX="-14" frameY="0" frameWidth="616" frameHeight="360"/>
+	<SubTexture name="drownd mario right0007" x="3015" y="1664" width="602" height="350" frameX="-14" frameY="0" frameWidth="616" frameHeight="360"/>
+	<SubTexture name="drownd mario right0008" x="3015" y="1664" width="602" height="350" frameX="-14" frameY="0" frameWidth="616" frameHeight="360"/>
+	<SubTexture name="drownd mario up0000" x="3617" y="1664" width="307" height="554" frameX="0" frameY="0" frameWidth="307" frameHeight="561"/>
+	<SubTexture name="drownd mario up0001" x="3924" y="1664" width="305" height="553" frameX="-2" frameY="-4" frameWidth="307" frameHeight="561"/>
+	<SubTexture name="drownd mario up0002" x="4229" y="1664" width="303" height="550" frameX="-4" frameY="-9" frameWidth="307" frameHeight="561"/>
+	<SubTexture name="drownd mario up0003" x="4532" y="1664" width="301" height="548" frameX="-6" frameY="-13" frameWidth="307" frameHeight="561"/>
+	<SubTexture name="drownd mario up0004" x="4532" y="1664" width="301" height="548" frameX="-6" frameY="-13" frameWidth="307" frameHeight="561"/>
+	<SubTexture name="drownd mario up0005" x="4532" y="1664" width="301" height="548" frameX="-6" frameY="-13" frameWidth="307" frameHeight="561"/>
+	<SubTexture name="drownd mario up0006" x="4532" y="1664" width="301" height="548" frameX="-6" frameY="-13" frameWidth="307" frameHeight="561"/>
+	<SubTexture name="drownd mario up0007" x="4532" y="1664" width="301" height="548" frameX="-6" frameY="-13" frameWidth="307" frameHeight="561"/>
+	<SubTexture name="drownd mario up0008" x="4532" y="1664" width="301" height="548" frameX="-6" frameY="-13" frameWidth="307" frameHeight="561"/>
+</TextureAtlas>

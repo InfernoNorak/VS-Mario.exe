@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gillbert idle"
+		},
+		{
+			"offsets": [
+				64,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gillbert left"
+		},
+		{
+			"offsets": [
+				12,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gillbert up"
+		},
+		{
+			"offsets": [
+				30,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gillbert right"
+		},
+		{
+			"offsets": [
+				0,
+				-173
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "gillbert down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gillbert",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "uncanny",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		36,
+		36
+	],
+	"camera_position": [
+		-100,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

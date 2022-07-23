@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-111
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mario Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-134
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mario Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-160
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mario Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mario Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-160
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mario Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LIVER STEALER MARIO_ASS_ets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "liver",
+	"flip_x": false,
+	"healthbar_colors": [
+		149,
+		0,
+		0
+	],
+	"camera_position": [
+		90,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

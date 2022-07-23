@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speedrunner boyfriend.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bif down0000" x="0" y="0" width="238" height="260" frameX="-6" frameY="-9" frameWidth="244" frameHeight="269"/>
+	<SubTexture name="bif down0001" x="238" y="0" width="243" height="257" frameX="-1" frameY="-9" frameWidth="244" frameHeight="269"/>
+	<SubTexture name="bif down0002" x="481" y="0" width="243" height="255" frameX="0" frameY="-9" frameWidth="244" frameHeight="269"/>
+	<SubTexture name="bif down0003" x="724" y="0" width="242" height="252" frameX="0" frameY="-9" frameWidth="244" frameHeight="269"/>
+	<SubTexture name="bif down0004" x="966" y="0" width="234" height="261" frameX="-6" frameY="-4" frameWidth="244" frameHeight="269"/>
+	<SubTexture name="bif down0005" x="1200" y="0" width="224" height="269" frameX="-13" frameY="0" frameWidth="244" frameHeight="269"/>
+	<SubTexture name="bif down0006" x="1200" y="0" width="224" height="269" frameX="-13" frameY="0" frameWidth="244" frameHeight="269"/>
+	<SubTexture name="bif down0007" x="1200" y="0" width="224" height="269" frameX="-13" frameY="0" frameWidth="244" frameHeight="269"/>
+	<SubTexture name="bif down0008" x="1200" y="0" width="224" height="269" frameX="-13" frameY="0" frameWidth="244" frameHeight="269"/>
+	<SubTexture name="bif down the miss0000" x="1424" y="0" width="238" height="260"/>
+	<SubTexture name="bif idle0000" x="1200" y="0" width="224" height="269" frameX="-13" frameY="0" frameWidth="244" frameHeight="269"/>
+	<SubTexture name="bif idle0001" x="1662" y="0" width="231" height="263" frameX="-8" frameY="-3" frameWidth="242" frameHeight="269"/>
+	<SubTexture name="bif idle0002" x="0" y="269" width="237" height="258" frameX="-4" frameY="-6" frameWidth="242" frameHeight="269"/>
+	<SubTexture name="bif idle0003" x="724" y="0" width="242" height="252" frameX="0" frameY="-9" frameWidth="244" frameHeight="269"/>
+	<SubTexture name="bif idle0004" x="966" y="0" width="234" height="261" frameX="-6" frameY="-4" frameWidth="244" frameHeight="269"/>
+	<SubTexture name="bif idle0005" x="1200" y="0" width="224" height="269" frameX="-13" frameY="0" frameWidth="244" frameHeight="269"/>
+	<SubTexture name="bif idle0006" x="1200" y="0" width="224" height="269" frameX="-13" frameY="0" frameWidth="244" frameHeight="269"/>
+	<SubTexture name="bif idle0007" x="1200" y="0" width="224" height="269" frameX="-13" frameY="0" frameWidth="244" frameHeight="269"/>
+	<SubTexture name="bif idle0008" x="1200" y="0" width="224" height="269" frameX="-13" frameY="0" frameWidth="244" frameHeight="269"/>
+	<SubTexture name="bif left 0000" x="237" y="269" width="253" height="263" frameX="-11" frameY="0" frameWidth="264" frameHeight="263"/>
+	<SubTexture name="bif left 0001" x="490" y="269" width="257" height="263" frameX="-7" frameY="0" frameWidth="264" frameHeight="263"/>
+	<SubTexture name="bif left 0002" x="747" y="269" width="260" height="263" frameX="-3" frameY="0" frameWidth="264" frameHeight="263"/>
+	<SubTexture name="bif left 0003" x="1007" y="269" width="262" height="263" frameX="0" frameY="0" frameWidth="264" frameHeight="263"/>
+	<SubTexture name="bif left the miss0000" x="1269" y="269" width="253" height="263"/>
+	<SubTexture name="bif right0000" x="1522" y="269" width="247" height="260" frameX="0" frameY="0" frameWidth="259" frameHeight="260"/>
+	<SubTexture name="bif right0001" x="1769" y="269" width="251" height="254" frameX="-2" frameY="-6" frameWidth="259" frameHeight="260"/>
+	<SubTexture name="bif right0002" x="0" y="532" width="255" height="248" frameX="-4" frameY="-12" frameWidth="259" frameHeight="260"/>
+	<SubTexture name="bif right0003" x="0" y="532" width="255" height="248" frameX="-4" frameY="-12" frameWidth="259" frameHeight="260"/>
+	<SubTexture name="bif right0004" x="0" y="532" width="255" height="248" frameX="-4" frameY="-12" frameWidth="259" frameHeight="260"/>
+	<SubTexture name="bif right0005" x="0" y="532" width="255" height="248" frameX="-4" frameY="-12" frameWidth="259" frameHeight="260"/>
+	<SubTexture name="bif right the  miss0000" x="255" y="532" width="247" height="260"/>
+	<SubTexture name="bif up0000" x="502" y="532" width="224" height="272" frameX="0" frameY="-1" frameWidth="231" frameHeight="276"/>
+	<SubTexture name="bif up0001" x="726" y="532" width="225" height="274" frameX="0" frameY="0" frameWidth="231" frameHeight="276"/>
+	<SubTexture name="bif up0002" x="951" y="532" width="231" height="276"/>
+	<SubTexture name="bif up0003" x="951" y="532" width="231" height="276"/>
+	<SubTexture name="bif up0004" x="951" y="532" width="231" height="276"/>
+	<SubTexture name="bif up0005" x="951" y="532" width="231" height="276"/>
+	<SubTexture name="bif up0006" x="951" y="532" width="231" height="276"/>
+	<SubTexture name="bif up the mis0000" x="1182" y="532" width="224" height="272"/>
+</TextureAtlas>

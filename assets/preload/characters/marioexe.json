@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mario.EXE Left"
+		},
+		{
+			"offsets": [
+				10,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mario.EXE Down"
+		},
+		{
+			"offsets": [
+				0,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mario.EXE Up"
+		},
+		{
+			"offsets": [
+				0,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mario.EXE Right"
+		},
+		{
+			"offsets": [
+				0,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Mario.EXE Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Coolrash_Mario.EXE_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "marioexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		158,
+		0,
+		0
+	],
+	"camera_position": [
+		-210,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

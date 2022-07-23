@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "unzipped idle"
+		},
+		{
+			"offsets": [
+				30,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "unzipped left"
+		},
+		{
+			"offsets": [
+				20,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "unzipped down"
+		},
+		{
+			"offsets": [
+				0,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "unzipped up"
+		},
+		{
+			"offsets": [
+				10,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "unzipped right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mario unzipped",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "unzip",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		-140,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

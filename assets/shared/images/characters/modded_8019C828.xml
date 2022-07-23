@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="modded_8019C828.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="modded_8019C828 down0000" x="0" y="0" width="435" height="444" frameX="-18" frameY="0" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="modded_8019C828 down0001" x="435" y="0" width="428" height="438" frameX="-12" frameY="-7" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="modded_8019C828 down0002" x="863" y="0" width="433" height="438" frameX="-6" frameY="-7" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="modded_8019C828 down0003" x="1296" y="0" width="422" height="437" frameX="0" frameY="-7" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="modded_8019C828 down0004" x="1718" y="0" width="420" height="437" frameX="0" frameY="-7" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="modded_8019C828 down0005" x="2138" y="0" width="420" height="437" frameX="0" frameY="-7" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="modded_8019C828 down0006" x="2558" y="0" width="413" height="437" frameX="0" frameY="-7" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="modded_8019C828 down0007" x="2971" y="0" width="413" height="437" frameX="0" frameY="-7" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="modded_8019C828 down0008" x="3384" y="0" width="422" height="437" frameX="0" frameY="-7" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="modded_8019C828 down0009" x="3806" y="0" width="422" height="437" frameX="0" frameY="-7" frameWidth="453" frameHeight="445"/>
+	<SubTexture name="modded_8019C828 idle0000" x="4228" y="0" width="447" height="463" frameX="0" frameY="0" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0001" x="4675" y="0" width="444" height="462" frameX="0" frameY="-1" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0002" x="5119" y="0" width="453" height="461" frameX="0" frameY="-2" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0003" x="5572" y="0" width="451" height="460" frameX="0" frameY="-2" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0004" x="6023" y="0" width="436" height="459" frameX="0" frameY="-3" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0005" x="6459" y="0" width="434" height="459" frameX="0" frameY="-3" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0006" x="6893" y="0" width="433" height="458" frameX="0" frameY="-4" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0007" x="7326" y="0" width="431" height="458" frameX="0" frameY="-4" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0008" x="0" y="463" width="441" height="457" frameX="0" frameY="-5" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0009" x="441" y="463" width="439" height="457" frameX="0" frameY="-5" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0010" x="880" y="463" width="424" height="456" frameX="0" frameY="-6" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0011" x="1304" y="463" width="422" height="456" frameX="0" frameY="-6" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0012" x="1726" y="463" width="419" height="455" frameX="0" frameY="-7" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0013" x="2145" y="463" width="417" height="455" frameX="0" frameY="-7" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0014" x="2562" y="463" width="431" height="454" frameX="0" frameY="-8" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0015" x="2993" y="463" width="429" height="454" frameX="0" frameY="-8" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0016" x="3422" y="463" width="409" height="452" frameX="0" frameY="-9" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0017" x="3831" y="463" width="407" height="451" frameX="0" frameY="-10" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0018" x="4238" y="463" width="406" height="451" frameX="0" frameY="-10" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0019" x="4644" y="463" width="403" height="450" frameX="0" frameY="-11" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0020" x="5047" y="463" width="417" height="450" frameX="0" frameY="-11" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0021" x="5464" y="463" width="398" height="449" frameX="0" frameY="-12" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0022" x="5862" y="463" width="401" height="450" frameX="0" frameY="-11" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0023" x="6263" y="463" width="403" height="450" frameX="0" frameY="-11" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0024" x="6666" y="463" width="421" height="451" frameX="0" frameY="-10" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0025" x="7087" y="463" width="423" height="451" frameX="0" frameY="-10" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0026" x="7510" y="463" width="410" height="452" frameX="0" frameY="-9" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0027" x="0" y="920" width="413" height="453" frameX="0" frameY="-9" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0028" x="413" y="920" width="414" height="454" frameX="0" frameY="-8" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0029" x="827" y="920" width="416" height="454" frameX="0" frameY="-8" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0030" x="1243" y="920" width="434" height="455" frameX="0" frameY="-7" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0031" x="1677" y="920" width="436" height="455" frameX="0" frameY="-7" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0032" x="2113" y="920" width="421" height="456" frameX="0" frameY="-6" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0033" x="2534" y="920" width="423" height="456" frameX="0" frameY="-6" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0034" x="2957" y="920" width="427" height="457" frameX="0" frameY="-5" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0035" x="3384" y="920" width="429" height="457" frameX="0" frameY="-5" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0036" x="3813" y="920" width="444" height="458" frameX="0" frameY="-4" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0037" x="4257" y="920" width="446" height="458" frameX="0" frameY="-4" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0038" x="4703" y="920" width="434" height="459" frameX="0" frameY="-3" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0039" x="5137" y="920" width="436" height="459" frameX="0" frameY="-3" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0040" x="5573" y="920" width="440" height="461" frameX="0" frameY="-2" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0041" x="6013" y="920" width="442" height="461" frameX="0" frameY="-2" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0042" x="6455" y="920" width="455" height="462" frameX="0" frameY="-1" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0043" x="4228" y="0" width="447" height="463" frameX="0" frameY="0" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0044" x="6910" y="920" width="447" height="463" frameX="0" frameY="0" frameWidth="456" frameHeight="463"/>
+	<SubTexture name="modded_8019C828 idle0045" x="7357" y="920" width="456" height="463"/>
+	<SubTexture name="modded_8019C828 left0000" x="0" y="1383" width="400" height="469" frameX="-4" frameY="0" frameWidth="404" frameHeight="470"/>
+	<SubTexture name="modded_8019C828 left0001" x="400" y="1383" width="401" height="469" frameX="-2" frameY="0" frameWidth="404" frameHeight="470"/>
+	<SubTexture name="modded_8019C828 left0002" x="801" y="1383" width="402" height="469" frameX="0" frameY="0" frameWidth="404" frameHeight="470"/>
+	<SubTexture name="modded_8019C828 left0003" x="1203" y="1383" width="402" height="469" frameX="0" frameY="0" frameWidth="404" frameHeight="470"/>
+	<SubTexture name="modded_8019C828 left0004" x="1605" y="1383" width="402" height="470" frameX="0" frameY="0" frameWidth="404" frameHeight="470"/>
+	<SubTexture name="modded_8019C828 left0005" x="2007" y="1383" width="402" height="470" frameX="0" frameY="0" frameWidth="404" frameHeight="470"/>
+	<SubTexture name="modded_8019C828 left0006" x="2409" y="1383" width="402" height="462" frameX="0" frameY="0" frameWidth="404" frameHeight="470"/>
+	<SubTexture name="modded_8019C828 right0000" x="2811" y="1383" width="624" height="505" frameX="-2" frameY="-53" frameWidth="636" frameHeight="558"/>
+	<SubTexture name="modded_8019C828 right0001" x="3435" y="1383" width="628" height="511" frameX="-2" frameY="-47" frameWidth="636" frameHeight="558"/>
+	<SubTexture name="modded_8019C828 right0002" x="4063" y="1383" width="623" height="519" frameX="-1" frameY="-39" frameWidth="636" frameHeight="558"/>
+	<SubTexture name="modded_8019C828 right0003" x="4686" y="1383" width="628" height="532" frameX="0" frameY="-26" frameWidth="636" frameHeight="558"/>
+	<SubTexture name="modded_8019C828 right0004" x="5314" y="1383" width="636" height="555" frameX="0" frameY="-3" frameWidth="636" frameHeight="558"/>
+	<SubTexture name="modded_8019C828 right0005" x="5950" y="1383" width="636" height="555" frameX="0" frameY="-3" frameWidth="636" frameHeight="558"/>
+	<SubTexture name="modded_8019C828 right0006" x="6586" y="1383" width="636" height="549" frameX="0" frameY="-9" frameWidth="636" frameHeight="558"/>
+	<SubTexture name="modded_8019C828 right0007" x="7222" y="1383" width="636" height="549" frameX="0" frameY="-9" frameWidth="636" frameHeight="558"/>
+	<SubTexture name="modded_8019C828 right0008" x="0" y="1938" width="631" height="549" frameX="0" frameY="-9" frameWidth="636" frameHeight="558"/>
+	<SubTexture name="modded_8019C828 right0009" x="631" y="1938" width="631" height="549" frameX="0" frameY="-9" frameWidth="636" frameHeight="558"/>
+	<SubTexture name="modded_8019C828 right0010" x="1262" y="1938" width="636" height="558"/>
+	<SubTexture name="modded_8019C828 right0011" x="1898" y="1938" width="636" height="558"/>
+	<SubTexture name="modded_8019C828 right0012" x="2534" y="1938" width="636" height="549" frameX="0" frameY="-9" frameWidth="636" frameHeight="558"/>
+	<SubTexture name="modded_8019C828 right0013" x="3170" y="1938" width="636" height="549" frameX="0" frameY="-9" frameWidth="636" frameHeight="558"/>
+	<SubTexture name="modded_8019C828 up0000" x="3806" y="1938" width="603" height="599" frameX="0" frameY="-73" frameWidth="603" frameHeight="681"/>
+	<SubTexture name="modded_8019C828 up0001" x="4409" y="1938" width="592" height="619" frameX="0" frameY="-54" frameWidth="603" frameHeight="681"/>
+	<SubTexture name="modded_8019C828 up0002" x="5001" y="1938" width="583" height="654" frameX="0" frameY="-23" frameWidth="603" frameHeight="681"/>
+	<SubTexture name="modded_8019C828 up0003" x="5584" y="1938" width="573" height="680" frameX="0" frameY="-1" frameWidth="603" frameHeight="681"/>
+	<SubTexture name="modded_8019C828 up0004" x="6157" y="1938" width="569" height="664" frameX="0" frameY="-11" frameWidth="603" frameHeight="681"/>
+	<SubTexture name="modded_8019C828 up0005" x="6726" y="1938" width="569" height="661" frameX="0" frameY="-11" frameWidth="603" frameHeight="681"/>
+	<SubTexture name="modded_8019C828 up0006" x="7295" y="1938" width="569" height="655" frameX="0" frameY="-17" frameWidth="603" frameHeight="681"/>
+	<SubTexture name="modded_8019C828 up0007" x="0" y="2618" width="569" height="655" frameX="0" frameY="-17" frameWidth="603" frameHeight="681"/>
+	<SubTexture name="modded_8019C828 up0008" x="569" y="2618" width="572" height="672" frameX="0" frameY="0" frameWidth="603" frameHeight="681"/>
+	<SubTexture name="modded_8019C828 up0009" x="1141" y="2618" width="572" height="672" frameX="0" frameY="0" frameWidth="603" frameHeight="681"/>
+	<SubTexture name="modded_8019C828 up0010" x="1713" y="2618" width="568" height="664" frameX="0" frameY="-8" frameWidth="603" frameHeight="681"/>
+	<SubTexture name="modded_8019C828 up0011" x="2281" y="2618" width="568" height="664" frameX="0" frameY="-8" frameWidth="603" frameHeight="681"/>
+	<SubTexture name="modded_8019C828 up0012" x="2849" y="2618" width="569" height="655" frameX="0" frameY="-17" frameWidth="603" frameHeight="681"/>
+	<SubTexture name="modded_8019C828 up0013" x="3418" y="2618" width="569" height="655" frameX="0" frameY="-17" frameWidth="603" frameHeight="681"/>
+</TextureAtlas>

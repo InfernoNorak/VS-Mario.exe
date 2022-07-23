@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Coolrash_Mario.EXE_Knife_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mario.EXE Down0000" x="0" y="0" width="568" height="547" frameX="0" frameY="-15" frameWidth="568" frameHeight="562"/>
+	<SubTexture name="Mario.EXE Down0001" x="0" y="0" width="568" height="547" frameX="0" frameY="-15" frameWidth="568" frameHeight="562"/>
+	<SubTexture name="Mario.EXE Down0002" x="568" y="0" width="531" height="561" frameX="-9" frameY="-1" frameWidth="568" frameHeight="562"/>
+	<SubTexture name="Mario.EXE Down0003" x="568" y="0" width="531" height="561" frameX="-9" frameY="-1" frameWidth="568" frameHeight="562"/>
+	<SubTexture name="Mario.EXE Down0004" x="1099" y="0" width="524" height="562" frameX="-9" frameY="0" frameWidth="568" frameHeight="562"/>
+	<SubTexture name="Mario.EXE Down0005" x="1099" y="0" width="524" height="562" frameX="-9" frameY="0" frameWidth="568" frameHeight="562"/>
+	<SubTexture name="Mario.EXE Down0006" x="1099" y="0" width="524" height="562" frameX="-9" frameY="0" frameWidth="568" frameHeight="562"/>
+	<SubTexture name="Mario.EXE Down0007" x="1099" y="0" width="524" height="562" frameX="-9" frameY="0" frameWidth="568" frameHeight="562"/>
+	<SubTexture name="Mario.EXE Down0008" x="1099" y="0" width="524" height="562" frameX="-9" frameY="0" frameWidth="568" frameHeight="562"/>
+	<SubTexture name="Mario.EXE Down0009" x="1099" y="0" width="524" height="562" frameX="-9" frameY="0" frameWidth="568" frameHeight="562"/>
+	<SubTexture name="Mario.EXE Down0010" x="1099" y="0" width="524" height="562" frameX="-9" frameY="0" frameWidth="568" frameHeight="562"/>
+	<SubTexture name="Mario.EXE Down0011" x="1099" y="0" width="524" height="562" frameX="-9" frameY="0" frameWidth="568" frameHeight="562"/>
+	<SubTexture name="Mario.EXE Down0012" x="1099" y="0" width="524" height="562" frameX="-9" frameY="0" frameWidth="568" frameHeight="562"/>
+	<SubTexture name="Mario.EXE Idle0000" x="1623" y="0" width="368" height="588" frameX="0" frameY="-13" frameWidth="377" frameHeight="602"/>
+	<SubTexture name="Mario.EXE Idle0001" x="1623" y="0" width="368" height="588" frameX="0" frameY="-13" frameWidth="377" frameHeight="602"/>
+	<SubTexture name="Mario.EXE Idle0002" x="1991" y="0" width="369" height="593" frameX="-2" frameY="-9" frameWidth="377" frameHeight="602"/>
+	<SubTexture name="Mario.EXE Idle0003" x="1991" y="0" width="369" height="593" frameX="-2" frameY="-9" frameWidth="377" frameHeight="602"/>
+	<SubTexture name="Mario.EXE Idle0004" x="2360" y="0" width="372" height="599" frameX="-3" frameY="-3" frameWidth="377" frameHeight="602"/>
+	<SubTexture name="Mario.EXE Idle0005" x="2360" y="0" width="372" height="599" frameX="-3" frameY="-3" frameWidth="377" frameHeight="602"/>
+	<SubTexture name="Mario.EXE Idle0006" x="2732" y="0" width="372" height="602" frameX="-4" frameY="0" frameWidth="377" frameHeight="602"/>
+	<SubTexture name="Mario.EXE Idle0007" x="2732" y="0" width="372" height="602" frameX="-4" frameY="0" frameWidth="377" frameHeight="602"/>
+	<SubTexture name="Mario.EXE Idle0008" x="3104" y="0" width="373" height="602" frameX="-4" frameY="0" frameWidth="377" frameHeight="602"/>
+	<SubTexture name="Mario.EXE Idle0009" x="3104" y="0" width="373" height="602" frameX="-4" frameY="0" frameWidth="377" frameHeight="602"/>
+	<SubTexture name="Mario.EXE Idle0010" x="3104" y="0" width="373" height="602" frameX="-4" frameY="0" frameWidth="377" frameHeight="602"/>
+	<SubTexture name="Mario.EXE Idle0011" x="3104" y="0" width="373" height="602" frameX="-4" frameY="0" frameWidth="377" frameHeight="602"/>
+	<SubTexture name="Mario.EXE Idle0012" x="3104" y="0" width="373" height="602" frameX="-4" frameY="0" frameWidth="377" frameHeight="602"/>
+	<SubTexture name="Mario.EXE Idle0013" x="3104" y="0" width="373" height="602" frameX="-4" frameY="0" frameWidth="377" frameHeight="602"/>
+	<SubTexture name="Mario.EXE Left0000" x="3477" y="0" width="386" height="610" frameX="0" frameY="-3" frameWidth="395" frameHeight="613"/>
+	<SubTexture name="Mario.EXE Left0001" x="3477" y="0" width="386" height="610" frameX="0" frameY="-3" frameWidth="395" frameHeight="613"/>
+	<SubTexture name="Mario.EXE Left0002" x="0" y="610" width="384" height="613" frameX="-4" frameY="0" frameWidth="395" frameHeight="613"/>
+	<SubTexture name="Mario.EXE Left0003" x="0" y="610" width="384" height="613" frameX="-4" frameY="0" frameWidth="395" frameHeight="613"/>
+	<SubTexture name="Mario.EXE Left0004" x="384" y="610" width="388" height="613" frameX="-7" frameY="0" frameWidth="395" frameHeight="613"/>
+	<SubTexture name="Mario.EXE Left0005" x="384" y="610" width="388" height="613" frameX="-7" frameY="0" frameWidth="395" frameHeight="613"/>
+	<SubTexture name="Mario.EXE Left0006" x="384" y="610" width="388" height="613" frameX="-7" frameY="0" frameWidth="395" frameHeight="613"/>
+	<SubTexture name="Mario.EXE Left0007" x="384" y="610" width="388" height="613" frameX="-7" frameY="0" frameWidth="395" frameHeight="613"/>
+	<SubTexture name="Mario.EXE Left0008" x="384" y="610" width="388" height="613" frameX="-7" frameY="0" frameWidth="395" frameHeight="613"/>
+	<SubTexture name="Mario.EXE Left0009" x="384" y="610" width="388" height="613" frameX="-7" frameY="0" frameWidth="395" frameHeight="613"/>
+	<SubTexture name="Mario.EXE Left0010" x="384" y="610" width="388" height="613" frameX="-7" frameY="0" frameWidth="395" frameHeight="613"/>
+	<SubTexture name="Mario.EXE Left0011" x="384" y="610" width="388" height="613" frameX="-7" frameY="0" frameWidth="395" frameHeight="613"/>
+	<SubTexture name="Mario.EXE Left0012" x="384" y="610" width="388" height="613" frameX="-7" frameY="0" frameWidth="395" frameHeight="613"/>
+	<SubTexture name="Mario.EXE Right0000" x="772" y="610" width="558" height="571" frameX="-1" frameY="0" frameWidth="559" frameHeight="571"/>
+	<SubTexture name="Mario.EXE Right0001" x="772" y="610" width="558" height="571" frameX="-1" frameY="0" frameWidth="559" frameHeight="571"/>
+	<SubTexture name="Mario.EXE Right0002" x="1330" y="610" width="538" height="564" frameX="0" frameY="-7" frameWidth="559" frameHeight="571"/>
+	<SubTexture name="Mario.EXE Right0003" x="1330" y="610" width="538" height="564" frameX="0" frameY="-7" frameWidth="559" frameHeight="571"/>
+	<SubTexture name="Mario.EXE Right0004" x="1868" y="610" width="519" height="563" frameX="0" frameY="-8" frameWidth="559" frameHeight="571"/>
+	<SubTexture name="Mario.EXE Right0005" x="1868" y="610" width="519" height="563" frameX="0" frameY="-8" frameWidth="559" frameHeight="571"/>
+	<SubTexture name="Mario.EXE Right0006" x="1868" y="610" width="519" height="563" frameX="0" frameY="-8" frameWidth="559" frameHeight="571"/>
+	<SubTexture name="Mario.EXE Right0007" x="1868" y="610" width="519" height="563" frameX="0" frameY="-8" frameWidth="559" frameHeight="571"/>
+	<SubTexture name="Mario.EXE Right0008" x="1868" y="610" width="519" height="563" frameX="0" frameY="-8" frameWidth="559" frameHeight="571"/>
+	<SubTexture name="Mario.EXE Right0009" x="1868" y="610" width="519" height="563" frameX="0" frameY="-8" frameWidth="559" frameHeight="571"/>
+	<SubTexture name="Mario.EXE Right0010" x="1868" y="610" width="519" height="563" frameX="0" frameY="-8" frameWidth="559" frameHeight="571"/>
+	<SubTexture name="Mario.EXE Right0011" x="1868" y="610" width="519" height="563" frameX="0" frameY="-8" frameWidth="559" frameHeight="571"/>
+	<SubTexture name="Mario.EXE Right0012" x="1868" y="610" width="519" height="563" frameX="0" frameY="-8" frameWidth="559" frameHeight="571"/>
+	<SubTexture name="Mario.EXE Up0000" x="2387" y="610" width="443" height="617"/>
+	<SubTexture name="Mario.EXE Up0001" x="2387" y="610" width="443" height="617"/>
+	<SubTexture name="Mario.EXE Up0002" x="2830" y="610" width="436" height="609" frameX="-3" frameY="-8" frameWidth="443" frameHeight="617"/>
+	<SubTexture name="Mario.EXE Up0003" x="2830" y="610" width="436" height="609" frameX="-3" frameY="-8" frameWidth="443" frameHeight="617"/>
+	<SubTexture name="Mario.EXE Up0004" x="3266" y="610" width="436" height="609" frameX="-3" frameY="-8" frameWidth="443" frameHeight="617"/>
+	<SubTexture name="Mario.EXE Up0005" x="3266" y="610" width="436" height="609" frameX="-3" frameY="-8" frameWidth="443" frameHeight="617"/>
+	<SubTexture name="Mario.EXE Up0006" x="3266" y="610" width="436" height="609" frameX="-3" frameY="-8" frameWidth="443" frameHeight="617"/>
+	<SubTexture name="Mario.EXE Up0007" x="3266" y="610" width="436" height="609" frameX="-3" frameY="-8" frameWidth="443" frameHeight="617"/>
+	<SubTexture name="Mario.EXE Up0008" x="3266" y="610" width="436" height="609" frameX="-3" frameY="-8" frameWidth="443" frameHeight="617"/>
+	<SubTexture name="Mario.EXE Up0009" x="3266" y="610" width="436" height="609" frameX="-3" frameY="-8" frameWidth="443" frameHeight="617"/>
+	<SubTexture name="Mario.EXE Up0010" x="3266" y="610" width="436" height="609" frameX="-3" frameY="-8" frameWidth="443" frameHeight="617"/>
+	<SubTexture name="Mario.EXE Up0011" x="3266" y="610" width="436" height="609" frameX="-3" frameY="-8" frameWidth="443" frameHeight="617"/>
+	<SubTexture name="Mario.EXE Up0012" x="3266" y="610" width="436" height="609" frameX="-3" frameY="-8" frameWidth="443" frameHeight="617"/>
+</TextureAtlas>

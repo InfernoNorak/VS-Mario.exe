@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="too late exe.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="too late atack0000" x="0" y="0" width="648" height="1103" frameX="0" frameY="-22" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0001" x="648" y="0" width="562" height="1124" frameX="-105" frameY="0" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0002" x="1210" y="0" width="572" height="1101" frameX="-105" frameY="-22" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0003" x="1782" y="0" width="573" height="1028" frameX="-105" frameY="-94" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0004" x="2355" y="0" width="595" height="913" frameX="-105" frameY="-209" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0005" x="2950" y="0" width="606" height="894" frameX="-105" frameY="-227" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0006" x="3556" y="0" width="606" height="880" frameX="-105" frameY="-240" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0007" x="4162" y="0" width="604" height="880" frameX="-105" frameY="-240" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0008" x="4766" y="0" width="600" height="880" frameX="-105" frameY="-240" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0009" x="5366" y="0" width="594" height="880" frameX="-105" frameY="-240" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0010" x="5960" y="0" width="587" height="880" frameX="-105" frameY="-240" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0011" x="6547" y="0" width="579" height="880" frameX="-105" frameY="-240" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0012" x="7126" y="0" width="590" height="880" frameX="-84" frameY="-240" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0013" x="0" y="1124" width="596" height="880" frameX="-67" frameY="-240" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0014" x="0" y="1124" width="596" height="880" frameX="-67" frameY="-240" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0015" x="0" y="1124" width="596" height="880" frameX="-67" frameY="-240" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0016" x="0" y="1124" width="596" height="880" frameX="-67" frameY="-240" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late atack0017" x="0" y="1124" width="596" height="880" frameX="-67" frameY="-240" frameWidth="711" frameHeight="1125"/>
+	<SubTexture name="too late down0000" x="596" y="1124" width="811" height="935" frameX="-116" frameY="0" frameWidth="938" frameHeight="936"/>
+	<SubTexture name="too late down0001" x="1407" y="1124" width="865" height="927" frameX="-67" frameY="-8" frameWidth="938" frameHeight="936"/>
+	<SubTexture name="too late down0002" x="2272" y="1124" width="908" height="920" frameX="-28" frameY="-16" frameWidth="938" frameHeight="936"/>
+	<SubTexture name="too late down0003" x="3180" y="1124" width="938" height="912" frameX="0" frameY="-24" frameWidth="938" frameHeight="936"/>
+	<SubTexture name="too late down0004" x="3180" y="1124" width="938" height="912" frameX="0" frameY="-24" frameWidth="938" frameHeight="936"/>
+	<SubTexture name="too late down0005" x="3180" y="1124" width="938" height="912" frameX="0" frameY="-24" frameWidth="938" frameHeight="936"/>
+	<SubTexture name="too late down0006" x="3180" y="1124" width="938" height="912" frameX="0" frameY="-24" frameWidth="938" frameHeight="936"/>
+	<SubTexture name="too late idle0000" x="4118" y="1124" width="639" height="929" frameX="-20" frameY="0" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0001" x="4757" y="1124" width="642" height="927" frameX="-14" frameY="-2" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0002" x="5399" y="1124" width="645" height="924" frameX="-9" frameY="-5" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0003" x="6044" y="1124" width="647" height="920" frameX="-4" frameY="-8" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0004" x="6691" y="1124" width="648" height="917" frameX="0" frameY="-11" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0005" x="7339" y="1124" width="644" height="914" frameX="-2" frameY="-14" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0006" x="0" y="2059" width="638" height="912" frameX="-5" frameY="-16" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0007" x="638" y="2059" width="633" height="909" frameX="-7" frameY="-19" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0008" x="1271" y="2059" width="626" height="906" frameX="-10" frameY="-22" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0009" x="1897" y="2059" width="620" height="910" frameX="-11" frameY="-18" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0010" x="2517" y="2059" width="612" height="913" frameX="-13" frameY="-15" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0011" x="3129" y="2059" width="606" height="917" frameX="-14" frameY="-11" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0012" x="3735" y="2059" width="597" height="921" frameX="-16" frameY="-7" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0013" x="4332" y="2059" width="621" height="926" frameX="-18" frameY="-3" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0014" x="4118" y="1124" width="639" height="929" frameX="-20" frameY="0" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0015" x="4118" y="1124" width="639" height="929" frameX="-20" frameY="0" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0016" x="4118" y="1124" width="639" height="929" frameX="-20" frameY="0" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0017" x="4118" y="1124" width="639" height="929" frameX="-20" frameY="0" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0018" x="4118" y="1124" width="639" height="929" frameX="-20" frameY="0" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0019" x="4118" y="1124" width="639" height="929" frameX="-20" frameY="0" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0020" x="4118" y="1124" width="639" height="929" frameX="-20" frameY="0" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0021" x="4118" y="1124" width="639" height="929" frameX="-20" frameY="0" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0022" x="4118" y="1124" width="639" height="929" frameX="-20" frameY="0" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late idle0023" x="4118" y="1124" width="639" height="929" frameX="-20" frameY="0" frameWidth="659" frameHeight="929"/>
+	<SubTexture name="too late left0000" x="4953" y="2059" width="705" height="940" frameX="-25" frameY="0" frameWidth="826" frameHeight="946"/>
+	<SubTexture name="too late left0001" x="5658" y="2059" width="717" height="944" frameX="-19" frameY="0" frameWidth="826" frameHeight="946"/>
+	<SubTexture name="too late left0002" x="6375" y="2059" width="754" height="946" frameX="-13" frameY="0" frameWidth="826" frameHeight="946"/>
+	<SubTexture name="too late left0003" x="7129" y="2059" width="789" height="944" frameX="-7" frameY="0" frameWidth="826" frameHeight="946"/>
+	<SubTexture name="too late left0004" x="0" y="3005" width="826" height="940" frameX="0" frameY="0" frameWidth="826" frameHeight="946"/>
+	<SubTexture name="too late left0005" x="0" y="3005" width="826" height="940" frameX="0" frameY="0" frameWidth="826" frameHeight="946"/>
+	<SubTexture name="too late left0006" x="0" y="3005" width="826" height="940" frameX="0" frameY="0" frameWidth="826" frameHeight="946"/>
+	<SubTexture name="too late left0007" x="0" y="3005" width="826" height="940" frameX="0" frameY="0" frameWidth="826" frameHeight="946"/>
+	<SubTexture name="too late left0008" x="0" y="3005" width="826" height="940" frameX="0" frameY="0" frameWidth="826" frameHeight="946"/>
+	<SubTexture name="too late pre atack0000" x="826" y="3005" width="639" height="940" frameX="0" frameY="0" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0001" x="1465" y="3005" width="641" height="937" frameX="0" frameY="-3" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0002" x="2106" y="3005" width="642" height="933" frameX="-1" frameY="-6" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0003" x="2748" y="3005" width="643" height="930" frameX="-1" frameY="-9" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0004" x="3391" y="3005" width="644" height="926" frameX="-2" frameY="-13" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0005" x="4035" y="3005" width="645" height="922" frameX="-3" frameY="-16" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0006" x="4680" y="3005" width="645" height="919" frameX="-4" frameY="-19" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0007" x="5325" y="3005" width="645" height="916" frameX="-6" frameY="-22" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0008" x="5970" y="3005" width="645" height="912" frameX="-7" frameY="-25" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0009" x="6615" y="3005" width="645" height="909" frameX="-9" frameY="-28" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0010" x="7260" y="3005" width="644" height="905" frameX="-11" frameY="-32" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0011" x="0" y="3945" width="643" height="902" frameX="-13" frameY="-35" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0012" x="643" y="3945" width="641" height="898" frameX="-16" frameY="-38" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0013" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0014" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0015" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0016" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0017" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0018" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0019" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0020" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0021" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0022" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0023" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0024" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0025" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0026" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0027" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0028" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0029" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late pre atack0030" x="1284" y="3945" width="639" height="895" frameX="-19" frameY="-41" frameWidth="658" frameHeight="940"/>
+	<SubTexture name="too late right0000" x="1923" y="3945" width="1339" height="941" frameX="-80" frameY="-1" frameWidth="1500" frameHeight="942"/>
+	<SubTexture name="too late right0001" x="3262" y="3945" width="1393" height="940" frameX="-53" frameY="-2" frameWidth="1500" frameHeight="942"/>
+	<SubTexture name="too late right0002" x="4655" y="3945" width="1446" height="939" frameX="-27" frameY="-3" frameWidth="1500" frameHeight="942"/>
+	<SubTexture name="too late right0003" x="6101" y="3945" width="1500" height="942"/>
+	<SubTexture name="too late right0004" x="6101" y="3945" width="1500" height="942"/>
+	<SubTexture name="too late right0005" x="6101" y="3945" width="1500" height="942"/>
+	<SubTexture name="too late right0006" x="6101" y="3945" width="1500" height="942"/>
+	<SubTexture name="too late right0007" x="6101" y="3945" width="1500" height="942"/>
+	<SubTexture name="too late right0008" x="6101" y="3945" width="1500" height="942"/>
+	<SubTexture name="too late right0009" x="6101" y="3945" width="1500" height="942"/>
+	<SubTexture name="too late right0010" x="6101" y="3945" width="1500" height="942"/>
+	<SubTexture name="too late right0011" x="6101" y="3945" width="1500" height="942"/>
+	<SubTexture name="too late right0012" x="6101" y="3945" width="1500" height="942"/>
+	<SubTexture name="too late right0013" x="6101" y="3945" width="1500" height="942"/>
+	<SubTexture name="too late right0014" x="6101" y="3945" width="1500" height="942"/>
+	<SubTexture name="too late right0015" x="6101" y="3945" width="1500" height="942"/>
+	<SubTexture name="too late right0016" x="6101" y="3945" width="1500" height="942"/>
+	<SubTexture name="too late right0017" x="6101" y="3945" width="1500" height="942"/>
+	<SubTexture name="too late up0000" x="0" y="4887" width="624" height="1371" frameX="-47" frameY="-114" frameWidth="733" frameHeight="1485"/>
+	<SubTexture name="too late up0001" x="624" y="4887" width="656" height="1400" frameX="-34" frameY="-85" frameWidth="733" frameHeight="1485"/>
+	<SubTexture name="too late up0002" x="1280" y="4887" width="684" height="1428" frameX="-22" frameY="-56" frameWidth="733" frameHeight="1485"/>
+	<SubTexture name="too late up0003" x="1964" y="4887" width="710" height="1455" frameX="-11" frameY="-28" frameWidth="733" frameHeight="1485"/>
+	<SubTexture name="too late up0004" x="2674" y="4887" width="733" height="1482" frameX="0" frameY="0" frameWidth="733" frameHeight="1485"/>
+	<SubTexture name="too late up0005" x="2674" y="4887" width="733" height="1482" frameX="0" frameY="0" frameWidth="733" frameHeight="1485"/>
+	<SubTexture name="too late up0006" x="2674" y="4887" width="733" height="1482" frameX="0" frameY="0" frameWidth="733" frameHeight="1485"/>
+	<SubTexture name="too late up0007" x="2674" y="4887" width="733" height="1482" frameX="0" frameY="0" frameWidth="733" frameHeight="1485"/>
+	<SubTexture name="too late up0008" x="2674" y="4887" width="733" height="1482" frameX="0" frameY="0" frameWidth="733" frameHeight="1485"/>
+	<SubTexture name="too late up0009" x="2674" y="4887" width="733" height="1482" frameX="0" frameY="0" frameWidth="733" frameHeight="1485"/>
+</TextureAtlas>

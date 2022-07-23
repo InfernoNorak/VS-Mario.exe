@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Trevor_Kraft_Menu_Idle.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Trevor Kraft Idle instance 10000" x="0" y="0" width="359" height="558" frameX="0" frameY="-13" frameWidth="359" frameHeight="572"/>
+	<SubTexture name="Trevor Kraft Idle instance 10001" x="0" y="0" width="359" height="558" frameX="0" frameY="-13" frameWidth="359" frameHeight="572"/>
+	<SubTexture name="Trevor Kraft Idle instance 10002" x="359" y="0" width="349" height="561" frameX="-2" frameY="-11" frameWidth="359" frameHeight="572"/>
+	<SubTexture name="Trevor Kraft Idle instance 10003" x="359" y="0" width="349" height="561" frameX="-2" frameY="-11" frameWidth="359" frameHeight="572"/>
+	<SubTexture name="Trevor Kraft Idle instance 10004" x="708" y="0" width="343" height="570" frameX="-3" frameY="-2" frameWidth="359" frameHeight="572"/>
+	<SubTexture name="Trevor Kraft Idle instance 10005" x="708" y="0" width="343" height="570" frameX="-3" frameY="-2" frameWidth="359" frameHeight="572"/>
+	<SubTexture name="Trevor Kraft Idle instance 10006" x="1051" y="0" width="339" height="572" frameX="-3" frameY="0" frameWidth="359" frameHeight="572"/>
+	<SubTexture name="Trevor Kraft Idle instance 10007" x="1051" y="0" width="339" height="572" frameX="-3" frameY="0" frameWidth="359" frameHeight="572"/>
+	<SubTexture name="Trevor Kraft Idle instance 10008" x="1390" y="0" width="338" height="572" frameX="-3" frameY="0" frameWidth="359" frameHeight="572"/>
+	<SubTexture name="Trevor Kraft Idle instance 10009" x="1390" y="0" width="338" height="572" frameX="-3" frameY="0" frameWidth="359" frameHeight="572"/>
+	<SubTexture name="Trevor Kraft Idle instance 10010" x="0" y="572" width="338" height="572" frameX="-3" frameY="0" frameWidth="359" frameHeight="572"/>
+	<SubTexture name="Trevor Kraft Idle instance 10011" x="0" y="572" width="338" height="572" frameX="-3" frameY="0" frameWidth="359" frameHeight="572"/>
+	<SubTexture name="Trevor Kraft Idle instance 10012" x="1390" y="0" width="338" height="572" frameX="-3" frameY="0" frameWidth="359" frameHeight="572"/>
+	<SubTexture name="Trevor Kraft Idle instance 10013" x="1390" y="0" width="338" height="572" frameX="-3" frameY="0" frameWidth="359" frameHeight="572"/>
+</TextureAtlas>

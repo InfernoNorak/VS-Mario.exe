@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mario unzipped.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="unzipped down0000" x="0" y="0" width="379" height="571" frameX="-7" frameY="0" frameWidth="386" frameHeight="571"/>
+	<SubTexture name="unzipped down0001" x="379" y="0" width="380" height="563" frameX="-5" frameY="-8" frameWidth="386" frameHeight="571"/>
+	<SubTexture name="unzipped down0002" x="759" y="0" width="385" height="555" frameX="0" frameY="-16" frameWidth="386" frameHeight="571"/>
+	<SubTexture name="unzipped down0003" x="1144" y="0" width="385" height="555" frameX="0" frameY="-16" frameWidth="386" frameHeight="571"/>
+	<SubTexture name="unzipped down0004" x="1529" y="0" width="385" height="555" frameX="0" frameY="-16" frameWidth="386" frameHeight="571"/>
+	<SubTexture name="unzipped down0005" x="759" y="0" width="385" height="555" frameX="0" frameY="-16" frameWidth="386" frameHeight="571"/>
+	<SubTexture name="unzipped idle0000" x="1914" y="0" width="360" height="593" frameX="0" frameY="-16" frameWidth="362" frameHeight="610"/>
+	<SubTexture name="unzipped idle0001" x="2274" y="0" width="361" height="602" frameX="0" frameY="-8" frameWidth="362" frameHeight="610"/>
+	<SubTexture name="unzipped idle0002" x="2635" y="0" width="361" height="602" frameX="0" frameY="-8" frameWidth="362" frameHeight="610"/>
+	<SubTexture name="unzipped idle0003" x="2996" y="0" width="362" height="610"/>
+	<SubTexture name="unzipped idle0004" x="3358" y="0" width="362" height="610"/>
+	<SubTexture name="unzipped idle0005" x="3720" y="0" width="362" height="610"/>
+	<SubTexture name="unzipped idle0006" x="2996" y="0" width="362" height="610"/>
+	<SubTexture name="unzipped left0000" x="0" y="610" width="506" height="578" frameX="-11" frameY="0" frameWidth="518" frameHeight="579"/>
+	<SubTexture name="unzipped left0001" x="506" y="610" width="513" height="578" frameX="-4" frameY="-1" frameWidth="518" frameHeight="579"/>
+	<SubTexture name="unzipped left0002" x="1019" y="610" width="518" height="576" frameX="0" frameY="-3" frameWidth="518" frameHeight="579"/>
+	<SubTexture name="unzipped left0003" x="1537" y="610" width="518" height="576" frameX="0" frameY="-3" frameWidth="518" frameHeight="579"/>
+	<SubTexture name="unzipped left0004" x="2055" y="610" width="518" height="576" frameX="0" frameY="-3" frameWidth="518" frameHeight="579"/>
+	<SubTexture name="unzipped left0005" x="1019" y="610" width="518" height="576" frameX="0" frameY="-3" frameWidth="518" frameHeight="579"/>
+	<SubTexture name="unzipped left0006" x="1537" y="610" width="518" height="576" frameX="0" frameY="-3" frameWidth="518" frameHeight="579"/>
+	<SubTexture name="unzipped right0000" x="2573" y="610" width="516" height="591"/>
+	<SubTexture name="unzipped right0001" x="3089" y="610" width="510" height="591" frameX="-3" frameY="0" frameWidth="516" frameHeight="591"/>
+	<SubTexture name="unzipped right0002" x="3599" y="610" width="496" height="591" frameX="-10" frameY="0" frameWidth="516" frameHeight="591"/>
+	<SubTexture name="unzipped right0003" x="0" y="1201" width="496" height="591" frameX="-10" frameY="0" frameWidth="516" frameHeight="591"/>
+	<SubTexture name="unzipped right0004" x="496" y="1201" width="496" height="591" frameX="-10" frameY="0" frameWidth="516" frameHeight="591"/>
+	<SubTexture name="unzipped right0005" x="3599" y="610" width="496" height="591" frameX="-10" frameY="0" frameWidth="516" frameHeight="591"/>
+	<SubTexture name="unzipped right0006" x="0" y="1201" width="496" height="591" frameX="-10" frameY="0" frameWidth="516" frameHeight="591"/>
+	<SubTexture name="unzipped up0000" x="992" y="1201" width="334" height="590" frameX="0" frameY="-9" frameWidth="336" frameHeight="599"/>
+	<SubTexture name="unzipped up0001" x="1326" y="1201" width="336" height="599"/>
+	<SubTexture name="unzipped up0002" x="1662" y="1201" width="336" height="599"/>
+	<SubTexture name="unzipped up0003" x="1998" y="1201" width="336" height="599"/>
+	<SubTexture name="unzipped up0004" x="1326" y="1201" width="336" height="599"/>
+</TextureAtlas>

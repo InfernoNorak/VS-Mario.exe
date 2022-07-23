@@ -1,0 +1,50 @@
+{
+	"storyName": "exe week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"torched",
+			"marioexe",
+			[
+				161,
+				1,
+				0
+			]
+		],
+		[
+			"poisoned",
+			"marioexe",
+			[
+				161,
+				1,
+				0
+			]
+		],
+		[
+			"broken-monarchy",
+			"marioexe",
+			[
+				161,
+				1,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "vs coolrash mario.exe"
+}

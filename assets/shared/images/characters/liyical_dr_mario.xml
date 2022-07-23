@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="liyical_dr_mario.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dr mario down instance 10000" x="0" y="0" width="234" height="432" frameX="0" frameY="-12" frameWidth="234" frameHeight="444"/>
+	<SubTexture name="dr mario down instance 10001" x="234" y="0" width="234" height="432" frameX="0" frameY="-12" frameWidth="234" frameHeight="444"/>
+	<SubTexture name="dr mario down instance 10002" x="468" y="0" width="233" height="429" frameX="-1" frameY="-9" frameWidth="234" frameHeight="444"/>
+	<SubTexture name="dr mario down instance 10003" x="701" y="0" width="233" height="429" frameX="-1" frameY="-9" frameWidth="234" frameHeight="444"/>
+	<SubTexture name="dr mario down instance 10004" x="934" y="0" width="231" height="431" frameX="-3" frameY="0" frameWidth="234" frameHeight="444"/>
+	<SubTexture name="dr mario down instance 10005" x="934" y="0" width="231" height="431" frameX="-3" frameY="0" frameWidth="234" frameHeight="444"/>
+	<SubTexture name="dr mario idle instance 10000" x="1165" y="0" width="198" height="441" frameX="-6" frameY="0" frameWidth="204" frameHeight="441"/>
+	<SubTexture name="dr mario idle instance 10001" x="1363" y="0" width="199" height="436" frameX="-5" frameY="-5" frameWidth="204" frameHeight="441"/>
+	<SubTexture name="dr mario idle instance 10002" x="1562" y="0" width="201" height="431" frameX="-3" frameY="-10" frameWidth="204" frameHeight="441"/>
+	<SubTexture name="dr mario idle instance 10003" x="1763" y="0" width="202" height="426" frameX="-1" frameY="-15" frameWidth="204" frameHeight="441"/>
+	<SubTexture name="dr mario idle instance 10004" x="0" y="441" width="203" height="420" frameX="0" frameY="-21" frameWidth="204" frameHeight="441"/>
+	<SubTexture name="dr mario idle instance 10005" x="203" y="441" width="202" height="428" frameX="-2" frameY="-13" frameWidth="204" frameHeight="441"/>
+	<SubTexture name="dr mario idle instance 10006" x="405" y="441" width="200" height="435" frameX="-4" frameY="-6" frameWidth="204" frameHeight="441"/>
+	<SubTexture name="dr mario idle instance 10007" x="1165" y="0" width="198" height="441" frameX="-6" frameY="0" frameWidth="204" frameHeight="441"/>
+	<SubTexture name="dr mario idle instance 10008" x="1165" y="0" width="198" height="441" frameX="-6" frameY="0" frameWidth="204" frameHeight="441"/>
+	<SubTexture name="dr mario idle instance 10009" x="1165" y="0" width="198" height="441" frameX="-6" frameY="0" frameWidth="204" frameHeight="441"/>
+	<SubTexture name="dr mario left instance 10000" x="605" y="441" width="248" height="441"/>
+	<SubTexture name="dr mario left instance 10001" x="853" y="441" width="241" height="441" frameX="-1" frameY="0" frameWidth="248" frameHeight="441"/>
+	<SubTexture name="dr mario left instance 10002" x="1094" y="441" width="233" height="441" frameX="-3" frameY="0" frameWidth="248" frameHeight="441"/>
+	<SubTexture name="dr mario left instance 10003" x="1327" y="441" width="224" height="441" frameX="-5" frameY="0" frameWidth="248" frameHeight="441"/>
+	<SubTexture name="dr mario left instance 10004" x="1327" y="441" width="224" height="441" frameX="-5" frameY="0" frameWidth="248" frameHeight="441"/>
+	<SubTexture name="dr mario right instance 10000" x="1551" y="441" width="187" height="429" frameX="0" frameY="0" frameWidth="220" frameHeight="430"/>
+	<SubTexture name="dr mario right instance 10001" x="1738" y="441" width="197" height="430" frameX="-1" frameY="0" frameWidth="220" frameHeight="430"/>
+	<SubTexture name="dr mario right instance 10002" x="0" y="882" width="206" height="430" frameX="-3" frameY="0" frameWidth="220" frameHeight="430"/>
+	<SubTexture name="dr mario right instance 10003" x="206" y="882" width="216" height="429" frameX="-4" frameY="0" frameWidth="220" frameHeight="430"/>
+	<SubTexture name="dr mario right instance 10004" x="206" y="882" width="216" height="429" frameX="-4" frameY="0" frameWidth="220" frameHeight="430"/>
+	<SubTexture name="dr mario right instance 10005" x="206" y="882" width="216" height="429" frameX="-4" frameY="0" frameWidth="220" frameHeight="430"/>
+	<SubTexture name="dr mario up Alt instance 10000" x="422" y="882" width="201" height="455" frameX="-1" frameY="0" frameWidth="202" frameHeight="455"/>
+	<SubTexture name="dr mario up Alt instance 10001" x="623" y="882" width="199" height="445" frameX="0" frameY="-10" frameWidth="202" frameHeight="455"/>
+	<SubTexture name="dr mario up Alt instance 10002" x="822" y="882" width="200" height="440" frameX="0" frameY="-15" frameWidth="202" frameHeight="455"/>
+	<SubTexture name="dr mario up Alt instance 10003" x="822" y="882" width="200" height="440" frameX="0" frameY="-15" frameWidth="202" frameHeight="455"/>
+	<SubTexture name="dr mario up Alt instance 10004" x="822" y="882" width="200" height="440" frameX="0" frameY="-15" frameWidth="202" frameHeight="455"/>
+	<SubTexture name="dr mario up instance 10000" x="1022" y="882" width="212" height="455" frameX="-1" frameY="0" frameWidth="213" frameHeight="455"/>
+	<SubTexture name="dr mario up instance 10001" x="1234" y="882" width="212" height="447" frameX="0" frameY="-8" frameWidth="213" frameHeight="455"/>
+	<SubTexture name="dr mario up instance 10002" x="1446" y="882" width="210" height="440" frameX="-1" frameY="-15" frameWidth="213" frameHeight="455"/>
+	<SubTexture name="dr mario up instance 10003" x="1446" y="882" width="210" height="440" frameX="-1" frameY="-15" frameWidth="213" frameHeight="455"/>
+	<SubTexture name="dr mario up instance 10004" x="1446" y="882" width="210" height="440" frameX="-1" frameY="-15" frameWidth="213" frameHeight="455"/>
+</TextureAtlas>

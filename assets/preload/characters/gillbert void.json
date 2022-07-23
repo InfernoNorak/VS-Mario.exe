@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Mario Idle"
+		},
+		{
+			"offsets": [
+				91,
+				-136
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mario Left"
+		},
+		{
+			"offsets": [
+				0,
+				-170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Mario Down"
+		},
+		{
+			"offsets": [
+				-2,
+				-126
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Mario Up"
+		},
+		{
+			"offsets": [
+				-3,
+				-146
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Mario Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Void Gillbert",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "uncanny",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		36,
+		36
+	],
+	"camera_position": [
+		-50,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

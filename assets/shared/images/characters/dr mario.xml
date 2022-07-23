@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dr mario.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dr mario down0000" x="0" y="0" width="210" height="410" frameX="-3" frameY="-54" frameWidth="216" frameHeight="477"/>
+	<SubTexture name="dr mario down0001" x="210" y="0" width="210" height="422" frameX="-3" frameY="-44" frameWidth="216" frameHeight="477"/>
+	<SubTexture name="dr mario down0002" x="420" y="0" width="210" height="439" frameX="-3" frameY="-31" frameWidth="216" frameHeight="477"/>
+	<SubTexture name="dr mario down0003" x="630" y="0" width="210" height="452" frameX="-3" frameY="-18" frameWidth="216" frameHeight="477"/>
+	<SubTexture name="dr mario down0004" x="840" y="0" width="209" height="477" frameX="-3" frameY="0" frameWidth="216" frameHeight="477"/>
+	<SubTexture name="dr mario down0005" x="840" y="0" width="209" height="477" frameX="-3" frameY="0" frameWidth="216" frameHeight="477"/>
+	<SubTexture name="dr mario idle0000" x="1049" y="0" width="197" height="439" frameX="0" frameY="0" frameWidth="197" frameHeight="440"/>
+	<SubTexture name="dr mario idle0001" x="1246" y="0" width="195" height="436" frameX="0" frameY="-3" frameWidth="197" frameHeight="440"/>
+	<SubTexture name="dr mario idle0002" x="1441" y="0" width="192" height="432" frameX="-1" frameY="-7" frameWidth="197" frameHeight="440"/>
+	<SubTexture name="dr mario idle0003" x="1633" y="0" width="191" height="429" frameX="-1" frameY="-10" frameWidth="197" frameHeight="440"/>
+	<SubTexture name="dr mario idle0004" x="1824" y="0" width="188" height="425" frameX="-2" frameY="-14" frameWidth="197" frameHeight="440"/>
+	<SubTexture name="dr mario idle0005" x="0" y="477" width="191" height="431" frameX="-1" frameY="-9" frameWidth="197" frameHeight="440"/>
+	<SubTexture name="dr mario idle0006" x="191" y="477" width="194" height="436" frameX="0" frameY="-4" frameWidth="197" frameHeight="440"/>
+	<SubTexture name="dr mario idle0007" x="1049" y="0" width="197" height="439" frameX="0" frameY="0" frameWidth="197" frameHeight="440"/>
+	<SubTexture name="dr mario idle0008" x="1049" y="0" width="197" height="439" frameX="0" frameY="0" frameWidth="197" frameHeight="440"/>
+	<SubTexture name="dr mario idle0009" x="1049" y="0" width="197" height="439" frameX="0" frameY="0" frameWidth="197" frameHeight="440"/>
+	<SubTexture name="dr mario left0000" x="385" y="477" width="223" height="440" frameX="-18" frameY="0" frameWidth="248" frameHeight="440"/>
+	<SubTexture name="dr mario left0001" x="608" y="477" width="232" height="440" frameX="-11" frameY="0" frameWidth="248" frameHeight="440"/>
+	<SubTexture name="dr mario left0002" x="840" y="477" width="241" height="440" frameX="-5" frameY="0" frameWidth="248" frameHeight="440"/>
+	<SubTexture name="dr mario left0003" x="1081" y="477" width="248" height="440"/>
+	<SubTexture name="dr mario left0004" x="1081" y="477" width="248" height="440"/>
+	<SubTexture name="dr mario right0000" x="1329" y="477" width="203" height="429" frameX="-6" frameY="0" frameWidth="215" frameHeight="429"/>
+	<SubTexture name="dr mario right0001" x="1532" y="477" width="207" height="429" frameX="-4" frameY="0" frameWidth="215" frameHeight="429"/>
+	<SubTexture name="dr mario right0002" x="1739" y="477" width="211" height="429" frameX="-2" frameY="0" frameWidth="215" frameHeight="429"/>
+	<SubTexture name="dr mario right0003" x="0" y="917" width="215" height="429"/>
+	<SubTexture name="dr mario right0004" x="0" y="917" width="215" height="429"/>
+	<SubTexture name="dr mario right0005" x="0" y="917" width="215" height="429"/>
+	<SubTexture name="dr mario up0000" x="215" y="917" width="210" height="439" frameX="0" frameY="-7" frameWidth="210" frameHeight="446"/>
+	<SubTexture name="dr mario up0001" x="425" y="917" width="210" height="442" frameX="0" frameY="-4" frameWidth="210" frameHeight="446"/>
+	<SubTexture name="dr mario up0002" x="635" y="917" width="209" height="446" frameX="-1" frameY="0" frameWidth="210" frameHeight="446"/>
+	<SubTexture name="dr mario up0003" x="635" y="917" width="209" height="446" frameX="-1" frameY="0" frameWidth="210" frameHeight="446"/>
+	<SubTexture name="dr mario up0004" x="635" y="917" width="209" height="446" frameX="-1" frameY="0" frameWidth="210" frameHeight="446"/>
+</TextureAtlas>

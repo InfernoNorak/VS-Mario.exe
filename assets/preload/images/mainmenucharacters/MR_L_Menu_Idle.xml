@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MR_L_Menu_Idle.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mr. L Idle instance 10000" x="0" y="0" width="266" height="657" frameX="0" frameY="-16" frameWidth="266" frameHeight="676"/>
+	<SubTexture name="Mr. L Idle instance 10001" x="0" y="0" width="266" height="657" frameX="0" frameY="-16" frameWidth="266" frameHeight="676"/>
+	<SubTexture name="Mr. L Idle instance 10002" x="266" y="0" width="264" height="664" frameX="0" frameY="-11" frameWidth="266" frameHeight="676"/>
+	<SubTexture name="Mr. L Idle instance 10003" x="266" y="0" width="264" height="664" frameX="0" frameY="-11" frameWidth="266" frameHeight="676"/>
+	<SubTexture name="Mr. L Idle instance 10004" x="530" y="0" width="262" height="674" frameX="0" frameY="-2" frameWidth="266" frameHeight="676"/>
+	<SubTexture name="Mr. L Idle instance 10005" x="530" y="0" width="262" height="674" frameX="0" frameY="-2" frameWidth="266" frameHeight="676"/>
+	<SubTexture name="Mr. L Idle instance 10006" x="792" y="0" width="260" height="676" frameX="-1" frameY="0" frameWidth="266" frameHeight="676"/>
+	<SubTexture name="Mr. L Idle instance 10007" x="792" y="0" width="260" height="676" frameX="-1" frameY="0" frameWidth="266" frameHeight="676"/>
+	<SubTexture name="Mr. L Idle instance 10008" x="1052" y="0" width="260" height="676" frameX="-1" frameY="0" frameWidth="266" frameHeight="676"/>
+	<SubTexture name="Mr. L Idle instance 10009" x="1052" y="0" width="260" height="676" frameX="-1" frameY="0" frameWidth="266" frameHeight="676"/>
+	<SubTexture name="Mr. L Idle instance 10010" x="1052" y="0" width="260" height="676" frameX="-1" frameY="0" frameWidth="266" frameHeight="676"/>
+	<SubTexture name="Mr. L Idle instance 10011" x="1052" y="0" width="260" height="676" frameX="-1" frameY="0" frameWidth="266" frameHeight="676"/>
+	<SubTexture name="Mr. L Idle instance 10012" x="1052" y="0" width="260" height="676" frameX="-1" frameY="0" frameWidth="266" frameHeight="676"/>
+	<SubTexture name="Mr. L Idle instance 10013" x="1052" y="0" width="260" height="676" frameX="-1" frameY="0" frameWidth="266" frameHeight="676"/>
+</TextureAtlas>

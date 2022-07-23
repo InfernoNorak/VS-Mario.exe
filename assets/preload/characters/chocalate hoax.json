@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "coca idle"
+		},
+		{
+			"offsets": [
+				20,
+				-147
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "coca left"
+		},
+		{
+			"offsets": [
+				-1,
+				-148
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "coca down"
+		},
+		{
+			"offsets": [
+				0,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "coca up"
+		},
+		{
+			"offsets": [
+				-1,
+				-155
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "coca right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chocalate hoax",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "coca",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		0,
+		0
+	],
+	"camera_position": [
+		-120,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

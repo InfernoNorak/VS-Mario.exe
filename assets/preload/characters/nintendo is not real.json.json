@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-440,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "nintendLIE idle"
+		},
+		{
+			"offsets": [
+				-360,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "nintendLIE left"
+		},
+		{
+			"offsets": [
+				-247,
+				-34
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "nintendLIE down"
+		},
+		{
+			"offsets": [
+				-450,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "nintendLIE up"
+		},
+		{
+			"offsets": [
+				-460,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "nintendLIE right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/no such thing as nintendo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "notreal",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		170,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

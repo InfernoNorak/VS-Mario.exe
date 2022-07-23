@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-110,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dr mario idle"
+		},
+		{
+			"offsets": [
+				-60,
+				-231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dr mario left"
+		},
+		{
+			"offsets": [
+				-151,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dr mario down"
+		},
+		{
+			"offsets": [
+				-108,
+				-226
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dr mario up"
+		},
+		{
+			"offsets": [
+				-85,
+				-242
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dr mario right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dr mario",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dr mario",
+	"flip_x": true,
+	"healthbar_colors": [
+		107,
+		250,
+		255
+	],
+	"camera_position": [
+		-30,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

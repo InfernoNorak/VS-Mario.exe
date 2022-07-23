@@ -1,0 +1,49 @@
+{
+	"storyName": "3 days remain",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"liver-stealer",
+			"liver",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"liver-giver",
+			"luigi2",
+			[
+				0,
+				113,
+				0
+			]
+		],
+		[
+			"liver-warranty",
+			"wario",
+			[
+				255,
+				195,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "vs liver mario"
+}

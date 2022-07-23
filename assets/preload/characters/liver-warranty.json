@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-280
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "wario idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				-280
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "wario left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-284
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "wario down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-253
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "wario up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				44,
+				-255
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "wario right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/liver wario",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "wario",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		195,
+		0
+	],
+	"camera_position": [
+		-120,
+		390
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

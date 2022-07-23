@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-180
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ink mario idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-170
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ink mario left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-200
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ink mario down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-290
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ink mario up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-182
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ink mario right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ink mario",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ink",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		157
+	],
+	"camera_position": [
+		-120,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

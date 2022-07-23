@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dictation.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sh down0000" x="0" y="0" width="454" height="566" frameX="0" frameY="-9" frameWidth="454" frameHeight="575"/>
+	<SubTexture name="sh down0001" x="454" y="0" width="454" height="568" frameX="0" frameY="-7" frameWidth="454" frameHeight="575"/>
+	<SubTexture name="sh down0002" x="908" y="0" width="454" height="574" frameX="0" frameY="-1" frameWidth="454" frameHeight="575"/>
+	<SubTexture name="sh down0003" x="1362" y="0" width="454" height="575"/>
+	<SubTexture name="sh down0004" x="1816" y="0" width="454" height="551" frameX="0" frameY="-24" frameWidth="454" frameHeight="575"/>
+	<SubTexture name="sh down0005" x="1816" y="0" width="454" height="551" frameX="0" frameY="-24" frameWidth="454" frameHeight="575"/>
+	<SubTexture name="sh down0006" x="2270" y="0" width="454" height="557" frameX="0" frameY="-18" frameWidth="454" frameHeight="575"/>
+	<SubTexture name="sh down0007" x="2270" y="0" width="454" height="557" frameX="0" frameY="-18" frameWidth="454" frameHeight="575"/>
+	<SubTexture name="sh down0008" x="2724" y="0" width="454" height="551" frameX="0" frameY="-24" frameWidth="454" frameHeight="575"/>
+	<SubTexture name="sh down0009" x="2724" y="0" width="454" height="551" frameX="0" frameY="-24" frameWidth="454" frameHeight="575"/>
+	<SubTexture name="sh down0010" x="3178" y="0" width="454" height="553" frameX="0" frameY="-22" frameWidth="454" frameHeight="575"/>
+	<SubTexture name="sh down0011" x="3178" y="0" width="454" height="553" frameX="0" frameY="-22" frameWidth="454" frameHeight="575"/>
+	<SubTexture name="sh down0012" x="3178" y="0" width="454" height="553" frameX="0" frameY="-22" frameWidth="454" frameHeight="575"/>
+	<SubTexture name="sh down0013" x="3632" y="0" width="454" height="572" frameX="0" frameY="-3" frameWidth="454" frameHeight="575"/>
+	<SubTexture name="sh down0014" x="3632" y="0" width="454" height="572" frameX="0" frameY="-3" frameWidth="454" frameHeight="575"/>
+	<SubTexture name="sh idle0000" x="0" y="575" width="454" height="565" frameX="0" frameY="-4" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh idle0001" x="454" y="575" width="454" height="565" frameX="0" frameY="-4" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh idle0002" x="908" y="575" width="454" height="569"/>
+	<SubTexture name="sh idle0003" x="1362" y="575" width="454" height="569"/>
+	<SubTexture name="sh idle0004" x="1816" y="575" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh idle0005" x="1816" y="575" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh idle0006" x="2270" y="575" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh idle0007" x="2270" y="575" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh idle0008" x="2724" y="575" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh idle0009" x="2724" y="575" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh idle0010" x="3178" y="575" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh idle0011" x="3178" y="575" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh idle0012" x="3178" y="575" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh idle0013" x="0" y="575" width="454" height="565" frameX="0" frameY="-4" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh idle0014" x="0" y="575" width="454" height="565" frameX="0" frameY="-4" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh left0000" x="3632" y="575" width="460" height="551"/>
+	<SubTexture name="sh left0001" x="0" y="1144" width="454" height="551" frameX="-6" frameY="0" frameWidth="460" frameHeight="551"/>
+	<SubTexture name="sh left0002" x="454" y="1144" width="454" height="551" frameX="-6" frameY="0" frameWidth="460" frameHeight="551"/>
+	<SubTexture name="sh left0003" x="908" y="1144" width="454" height="551" frameX="-6" frameY="0" frameWidth="460" frameHeight="551"/>
+	<SubTexture name="sh left0004" x="908" y="1144" width="454" height="551" frameX="-6" frameY="0" frameWidth="460" frameHeight="551"/>
+	<SubTexture name="sh left0005" x="1362" y="1144" width="454" height="551" frameX="-6" frameY="0" frameWidth="460" frameHeight="551"/>
+	<SubTexture name="sh left0006" x="1362" y="1144" width="454" height="551" frameX="-6" frameY="0" frameWidth="460" frameHeight="551"/>
+	<SubTexture name="sh left0007" x="1816" y="1144" width="454" height="551" frameX="-6" frameY="0" frameWidth="460" frameHeight="551"/>
+	<SubTexture name="sh left0008" x="1816" y="1144" width="454" height="551" frameX="-6" frameY="0" frameWidth="460" frameHeight="551"/>
+	<SubTexture name="sh left0009" x="2270" y="1144" width="454" height="551" frameX="-6" frameY="0" frameWidth="460" frameHeight="551"/>
+	<SubTexture name="sh left0010" x="2270" y="1144" width="454" height="551" frameX="-6" frameY="0" frameWidth="460" frameHeight="551"/>
+	<SubTexture name="sh left0011" x="2724" y="1144" width="454" height="551" frameX="-6" frameY="0" frameWidth="460" frameHeight="551"/>
+	<SubTexture name="sh left0012" x="2724" y="1144" width="454" height="551" frameX="-6" frameY="0" frameWidth="460" frameHeight="551"/>
+	<SubTexture name="sh left0013" x="2724" y="1144" width="454" height="551" frameX="-6" frameY="0" frameWidth="460" frameHeight="551"/>
+	<SubTexture name="sh left0014" x="3178" y="1144" width="454" height="551" frameX="-6" frameY="0" frameWidth="460" frameHeight="551"/>
+	<SubTexture name="sh right0000" x="3632" y="1144" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh right0001" x="0" y="1695" width="454" height="556" frameX="0" frameY="-13" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh right0002" x="454" y="1695" width="454" height="565" frameX="0" frameY="-4" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh right0003" x="908" y="1695" width="454" height="569"/>
+	<SubTexture name="sh right0004" x="908" y="1695" width="454" height="569"/>
+	<SubTexture name="sh right0005" x="1362" y="1695" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh right0006" x="1362" y="1695" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh right0007" x="1816" y="1695" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh right0008" x="1816" y="1695" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh right0009" x="2270" y="1695" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh right0010" x="2270" y="1695" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh right0011" x="2724" y="1695" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh right0012" x="2724" y="1695" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh right0013" x="2724" y="1695" width="454" height="551" frameX="0" frameY="-18" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh right0014" x="3178" y="1695" width="454" height="565" frameX="0" frameY="-4" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh right0015" x="3178" y="1695" width="454" height="565" frameX="0" frameY="-4" frameWidth="454" frameHeight="569"/>
+	<SubTexture name="sh up0000" x="3632" y="1695" width="454" height="569" frameX="0" frameY="-5" frameWidth="454" frameHeight="574"/>
+	<SubTexture name="sh up0001" x="0" y="2264" width="454" height="549" frameX="0" frameY="-25" frameWidth="454" frameHeight="574"/>
+	<SubTexture name="sh up0002" x="454" y="2264" width="454" height="551" frameX="0" frameY="-23" frameWidth="454" frameHeight="574"/>
+	<SubTexture name="sh up0003" x="908" y="2264" width="454" height="557" frameX="0" frameY="-17" frameWidth="454" frameHeight="574"/>
+	<SubTexture name="sh up0004" x="908" y="2264" width="454" height="557" frameX="0" frameY="-17" frameWidth="454" frameHeight="574"/>
+	<SubTexture name="sh up0005" x="1362" y="2264" width="454" height="549" frameX="0" frameY="-25" frameWidth="454" frameHeight="574"/>
+	<SubTexture name="sh up0006" x="1362" y="2264" width="454" height="549" frameX="0" frameY="-25" frameWidth="454" frameHeight="574"/>
+	<SubTexture name="sh up0007" x="1816" y="2264" width="454" height="553" frameX="0" frameY="-21" frameWidth="454" frameHeight="574"/>
+	<SubTexture name="sh up0008" x="1816" y="2264" width="454" height="553" frameX="0" frameY="-21" frameWidth="454" frameHeight="574"/>
+	<SubTexture name="sh up0009" x="1816" y="2264" width="454" height="553" frameX="0" frameY="-21" frameWidth="454" frameHeight="574"/>
+	<SubTexture name="sh up0010" x="2270" y="2264" width="454" height="571" frameX="0" frameY="-3" frameWidth="454" frameHeight="574"/>
+	<SubTexture name="sh up0011" x="2270" y="2264" width="454" height="571" frameX="0" frameY="-3" frameWidth="454" frameHeight="574"/>
+	<SubTexture name="sh up0012" x="2724" y="2264" width="454" height="574"/>
+	<SubTexture name="sh up0013" x="2724" y="2264" width="454" height="574"/>
+	<SubTexture name="sh up0014" x="454" y="2264" width="454" height="551" frameX="0" frameY="-23" frameWidth="454" frameHeight="574"/>
+</TextureAtlas>

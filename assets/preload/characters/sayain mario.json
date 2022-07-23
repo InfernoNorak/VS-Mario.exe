@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "sayain Idle"
+		},
+		{
+			"offsets": [
+				-80,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sayain Left"
+		},
+		{
+			"offsets": [
+				20,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sayain Down"
+		},
+		{
+			"offsets": [
+				-20,
+				140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sayain Up"
+		},
+		{
+			"offsets": [
+				200,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sayain Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Super_Sayain_Mario",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sayan",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		55
+	],
+	"camera_position": [
+		-70,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

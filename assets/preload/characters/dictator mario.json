@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-129
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "dictator mario idle"
+		},
+		{
+			"offsets": [
+				120,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dictator mario left"
+		},
+		{
+			"offsets": [
+				26,
+				-178
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "dictator mario down"
+		},
+		{
+			"offsets": [
+				-4,
+				-133
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "dictator mario up"
+		},
+		{
+			"offsets": [
+				-20,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dictator mario right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/secret history mario",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "secretmario",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		242,
+		255
+	],
+	"camera_position": [
+		0,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

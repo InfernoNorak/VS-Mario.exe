@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="the subspace cast.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="the subspce cast0000" x="0" y="0" width="472" height="463" frameX="0" frameY="0" frameWidth="472" frameHeight="464"/>
+	<SubTexture name="the subspce cast0001" x="472" y="0" width="472" height="454" frameX="0" frameY="-9" frameWidth="472" frameHeight="464"/>
+	<SubTexture name="the subspce cast0002" x="944" y="0" width="472" height="427" frameX="0" frameY="-36" frameWidth="472" frameHeight="464"/>
+	<SubTexture name="the subspce cast0003" x="1416" y="0" width="472" height="422" frameX="0" frameY="-42" frameWidth="472" frameHeight="464"/>
+	<SubTexture name="the subspce cast0004" x="0" y="463" width="472" height="415" frameX="0" frameY="-48" frameWidth="472" frameHeight="464"/>
+	<SubTexture name="the subspce cast0005" x="472" y="463" width="472" height="431" frameX="0" frameY="-32" frameWidth="472" frameHeight="464"/>
+	<SubTexture name="the subspce cast0006" x="944" y="463" width="472" height="439" frameX="0" frameY="-24" frameWidth="472" frameHeight="464"/>
+	<SubTexture name="the subspce cast0007" x="1416" y="463" width="472" height="450" frameX="0" frameY="-13" frameWidth="472" frameHeight="464"/>
+	<SubTexture name="the subspce cast0008" x="0" y="913" width="472" height="456" frameX="0" frameY="-7" frameWidth="472" frameHeight="464"/>
+	<SubTexture name="the subspce cast0009" x="0" y="0" width="472" height="463" frameX="0" frameY="0" frameWidth="472" frameHeight="464"/>
+	<SubTexture name="the subspce cast0010" x="0" y="0" width="472" height="463" frameX="0" frameY="0" frameWidth="472" frameHeight="464"/>
+	<SubTexture name="the subspce cast0011" x="0" y="0" width="472" height="463" frameX="0" frameY="0" frameWidth="472" frameHeight="464"/>
+	<SubTexture name="the subspce cast0012" x="0" y="0" width="472" height="463" frameX="0" frameY="0" frameWidth="472" frameHeight="464"/>
+</TextureAtlas>

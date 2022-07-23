@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mario.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mario fixed0000" x="0" y="0" width="225" height="413" frameX="-12" frameY="0" frameWidth="266" frameHeight="417"/>
+	<SubTexture name="mario fixed0001" x="225" y="0" width="236" height="408" frameX="-9" frameY="-6" frameWidth="266" frameHeight="417"/>
+	<SubTexture name="mario fixed0002" x="461" y="0" width="246" height="403" frameX="-6" frameY="-12" frameWidth="266" frameHeight="417"/>
+	<SubTexture name="mario fixed0003" x="707" y="0" width="256" height="398" frameX="-3" frameY="-18" frameWidth="266" frameHeight="417"/>
+	<SubTexture name="mario fixed0004" x="0" y="413" width="266" height="394" frameX="0" frameY="-23" frameWidth="266" frameHeight="417"/>
+	<SubTexture name="mario fixed0005" x="266" y="413" width="256" height="398" frameX="-3" frameY="-18" frameWidth="266" frameHeight="417"/>
+	<SubTexture name="mario fixed0006" x="522" y="413" width="246" height="403" frameX="-6" frameY="-12" frameWidth="266" frameHeight="417"/>
+	<SubTexture name="mario fixed0007" x="768" y="413" width="236" height="408" frameX="-9" frameY="-6" frameWidth="266" frameHeight="417"/>
+	<SubTexture name="mario fixed0008" x="0" y="0" width="225" height="413" frameX="-12" frameY="0" frameWidth="266" frameHeight="417"/>
+	<SubTexture name="mario fixed0009" x="0" y="0" width="225" height="413" frameX="-12" frameY="0" frameWidth="266" frameHeight="417"/>
+	<SubTexture name="mario fixed0010" x="0" y="0" width="225" height="413" frameX="-12" frameY="0" frameWidth="266" frameHeight="417"/>
+	<SubTexture name="mario fixed0011" x="0" y="0" width="225" height="413" frameX="-12" frameY="0" frameWidth="266" frameHeight="417"/>
+	<SubTexture name="mario fixed0012" x="0" y="0" width="225" height="413" frameX="-12" frameY="0" frameWidth="266" frameHeight="417"/>
+	<SubTexture name="mario fixed0013" x="0" y="0" width="225" height="413" frameX="-12" frameY="0" frameWidth="266" frameHeight="417"/>
+</TextureAtlas>

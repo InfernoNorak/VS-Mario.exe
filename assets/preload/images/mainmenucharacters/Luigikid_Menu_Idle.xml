@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Luigikid_Menu_Idle.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Luigikid Idle instance 10000" x="0" y="0" width="328" height="635"/>
+	<SubTexture name="Luigikid Idle instance 10001" x="0" y="0" width="328" height="635"/>
+	<SubTexture name="Luigikid Idle instance 10002" x="328" y="0" width="325" height="642"/>
+	<SubTexture name="Luigikid Idle instance 10003" x="328" y="0" width="325" height="642"/>
+	<SubTexture name="Luigikid Idle instance 10004" x="653" y="0" width="324" height="653"/>
+	<SubTexture name="Luigikid Idle instance 10005" x="653" y="0" width="324" height="653"/>
+	<SubTexture name="Luigikid Idle instance 10006" x="977" y="0" width="322" height="657"/>
+	<SubTexture name="Luigikid Idle instance 10007" x="977" y="0" width="322" height="657"/>
+	<SubTexture name="Luigikid Idle instance 10008" x="1299" y="0" width="323" height="658"/>
+	<SubTexture name="Luigikid Idle instance 10009" x="1299" y="0" width="323" height="658"/>
+	<SubTexture name="Luigikid Idle instance 10010" x="1299" y="0" width="323" height="658"/>
+	<SubTexture name="Luigikid Idle instance 10011" x="1299" y="0" width="323" height="658"/>
+	<SubTexture name="Luigikid Idle instance 10012" x="1299" y="0" width="323" height="658"/>
+	<SubTexture name="Luigikid Idle instance 10013" x="1299" y="0" width="323" height="658"/>
+</TextureAtlas>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="no such thing as nintendo.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nintendLIE down0000" x="0" y="0" width="569" height="557" frameX="-12" frameY="0" frameWidth="581" frameHeight="557"/>
+	<SubTexture name="nintendLIE down0001" x="569" y="0" width="575" height="546" frameX="-4" frameY="-11" frameWidth="581" frameHeight="557"/>
+	<SubTexture name="nintendLIE down0002" x="1144" y="0" width="577" height="534" frameX="0" frameY="-23" frameWidth="581" frameHeight="557"/>
+	<SubTexture name="nintendLIE down0003" x="1144" y="0" width="577" height="534" frameX="0" frameY="-23" frameWidth="581" frameHeight="557"/>
+	<SubTexture name="nintendLIE down0004" x="1144" y="0" width="577" height="534" frameX="0" frameY="-23" frameWidth="581" frameHeight="557"/>
+	<SubTexture name="nintendLIE down0005" x="1144" y="0" width="577" height="534" frameX="0" frameY="-23" frameWidth="581" frameHeight="557"/>
+	<SubTexture name="nintendLIE down0006" x="1144" y="0" width="577" height="534" frameX="0" frameY="-23" frameWidth="581" frameHeight="557"/>
+	<SubTexture name="nintendLIE down0007" x="1144" y="0" width="577" height="534" frameX="0" frameY="-23" frameWidth="581" frameHeight="557"/>
+	<SubTexture name="nintendLIE down0008" x="1144" y="0" width="577" height="534" frameX="0" frameY="-23" frameWidth="581" frameHeight="557"/>
+	<SubTexture name="nintendLIE idle0000" x="1721" y="0" width="357" height="583" frameX="0" frameY="-8" frameWidth="357" frameHeight="591"/>
+	<SubTexture name="nintendLIE idle0001" x="2078" y="0" width="349" height="589" frameX="-4" frameY="-2" frameWidth="357" frameHeight="591"/>
+	<SubTexture name="nintendLIE idle0002" x="2427" y="0" width="333" height="591" frameX="-12" frameY="0" frameWidth="357" frameHeight="591"/>
+	<SubTexture name="nintendLIE idle0003" x="2427" y="0" width="333" height="591" frameX="-12" frameY="0" frameWidth="357" frameHeight="591"/>
+	<SubTexture name="nintendLIE idle0004" x="2427" y="0" width="333" height="591" frameX="-12" frameY="0" frameWidth="357" frameHeight="591"/>
+	<SubTexture name="nintendLIE idle0005" x="2427" y="0" width="333" height="591" frameX="-12" frameY="0" frameWidth="357" frameHeight="591"/>
+	<SubTexture name="nintendLIE idle0006" x="2427" y="0" width="333" height="591" frameX="-12" frameY="0" frameWidth="357" frameHeight="591"/>
+	<SubTexture name="nintendLIE idle0007" x="2427" y="0" width="333" height="591" frameX="-12" frameY="0" frameWidth="357" frameHeight="591"/>
+	<SubTexture name="nintendLIE idle0008" x="2427" y="0" width="333" height="591" frameX="-12" frameY="0" frameWidth="357" frameHeight="591"/>
+	<SubTexture name="nintendLIE left0000" x="2760" y="0" width="432" height="567" frameX="-12" frameY="0" frameWidth="444" frameHeight="567"/>
+	<SubTexture name="nintendLIE left0001" x="3192" y="0" width="438" height="567" frameX="-5" frameY="0" frameWidth="444" frameHeight="567"/>
+	<SubTexture name="nintendLIE left0002" x="3630" y="0" width="443" height="567" frameX="0" frameY="0" frameWidth="444" frameHeight="567"/>
+	<SubTexture name="nintendLIE left0003" x="3630" y="0" width="443" height="567" frameX="0" frameY="0" frameWidth="444" frameHeight="567"/>
+	<SubTexture name="nintendLIE left0004" x="3630" y="0" width="443" height="567" frameX="0" frameY="0" frameWidth="444" frameHeight="567"/>
+	<SubTexture name="nintendLIE left0005" x="3630" y="0" width="443" height="567" frameX="0" frameY="0" frameWidth="444" frameHeight="567"/>
+	<SubTexture name="nintendLIE left0006" x="3630" y="0" width="443" height="567" frameX="0" frameY="0" frameWidth="444" frameHeight="567"/>
+	<SubTexture name="nintendLIE left0007" x="3630" y="0" width="443" height="567" frameX="0" frameY="0" frameWidth="444" frameHeight="567"/>
+	<SubTexture name="nintendLIE left0008" x="3630" y="0" width="443" height="567" frameX="0" frameY="0" frameWidth="444" frameHeight="567"/>
+	<SubTexture name="nintendLIE right0000" x="0" y="591" width="402" height="571" frameX="0" frameY="0" frameWidth="409" frameHeight="571"/>
+	<SubTexture name="nintendLIE right0001" x="402" y="591" width="405" height="571" frameX="-1" frameY="0" frameWidth="409" frameHeight="571"/>
+	<SubTexture name="nintendLIE right0002" x="807" y="591" width="407" height="571" frameX="-2" frameY="0" frameWidth="409" frameHeight="571"/>
+	<SubTexture name="nintendLIE right0003" x="807" y="591" width="407" height="571" frameX="-2" frameY="0" frameWidth="409" frameHeight="571"/>
+	<SubTexture name="nintendLIE right0004" x="807" y="591" width="407" height="571" frameX="-2" frameY="0" frameWidth="409" frameHeight="571"/>
+	<SubTexture name="nintendLIE right0005" x="807" y="591" width="407" height="571" frameX="-2" frameY="0" frameWidth="409" frameHeight="571"/>
+	<SubTexture name="nintendLIE right0006" x="807" y="591" width="407" height="571" frameX="-2" frameY="0" frameWidth="409" frameHeight="571"/>
+	<SubTexture name="nintendLIE right0007" x="807" y="591" width="407" height="571" frameX="-2" frameY="0" frameWidth="409" frameHeight="571"/>
+	<SubTexture name="nintendLIE right0008" x="807" y="591" width="407" height="571" frameX="-2" frameY="0" frameWidth="409" frameHeight="571"/>
+	<SubTexture name="nintendLIE up0000" x="1214" y="591" width="442" height="591" frameX="0" frameY="-22" frameWidth="442" frameHeight="613"/>
+	<SubTexture name="nintendLIE up0001" x="1656" y="591" width="440" height="601" frameX="0" frameY="-12" frameWidth="442" frameHeight="613"/>
+	<SubTexture name="nintendLIE up0002" x="2096" y="591" width="436" height="613" frameX="0" frameY="0" frameWidth="442" frameHeight="613"/>
+	<SubTexture name="nintendLIE up0003" x="2096" y="591" width="436" height="613" frameX="0" frameY="0" frameWidth="442" frameHeight="613"/>
+	<SubTexture name="nintendLIE up0004" x="2096" y="591" width="436" height="613" frameX="0" frameY="0" frameWidth="442" frameHeight="613"/>
+	<SubTexture name="nintendLIE up0005" x="2096" y="591" width="436" height="613" frameX="0" frameY="0" frameWidth="442" frameHeight="613"/>
+	<SubTexture name="nintendLIE up0006" x="2096" y="591" width="436" height="613" frameX="0" frameY="0" frameWidth="442" frameHeight="613"/>
+	<SubTexture name="nintendLIE up0007" x="2096" y="591" width="436" height="613" frameX="0" frameY="0" frameWidth="442" frameHeight="613"/>
+	<SubTexture name="nintendLIE up0008" x="2096" y="591" width="436" height="613" frameX="0" frameY="0" frameWidth="442" frameHeight="613"/>
+</TextureAtlas>

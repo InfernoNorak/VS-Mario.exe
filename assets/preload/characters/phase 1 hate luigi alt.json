@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Luigi Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1441,
+				230
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Luigi Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-130
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Luigi Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Luigi Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-90
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Luigi Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/phase 1 hate Luigi_Assets alt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "luigi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		8
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
